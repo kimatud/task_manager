@@ -1,0 +1,250 @@
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user4@cytonn.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming
+BODY: You have been assigned a new task: Programming
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Central Banks 2
+BODY: You have been assigned a new task: Central Banks 2
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Central Banks 2
+BODY: You have been assigned a new task: Central Banks 2
+Deadline: 2025-07-15
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: Central Banks 2
+BODY: You have been assigned a new task: Central Banks 2
+Deadline: 2025-07-15
+
+EMAIL TO: user4@cytonn.com
+SUBJECT: New Task Assigned: Central Banks 2
+BODY: You have been assigned a new task: Central Banks 2
+Deadline: 2025-07-15
+
+EMAIL TO: user5@cytonn.com
+SUBJECT: New Task Assigned: Central Banks 2
+BODY: You have been assigned a new task: Central Banks 2
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: Programming 3
+BODY: You have been assigned a new task: Programming 3
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Central Banks 3
+BODY: You have been assigned a new task: Central Banks 3
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Central Banks 3
+BODY: You have been assigned a new task: Central Banks 3
+Deadline: 2025-07-14
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Project
+BODY: You have been assigned a new task: Project
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Project
+BODY: You have been assigned a new task: Project
+Deadline: 2025-07-15
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: Programming 4
+BODY: You have been assigned a new task: Programming 4
+Deadline: 2025-07-14
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: Optics
+BODY: You have been assigned a new task: Optics
+Deadline: 2025-07-13
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: Optics
+BODY: You have been assigned a new task: Optics
+Deadline: 2025-07-13
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: Optics
+BODY: You have been assigned a new task: Optics
+Deadline: 2025-07-13
+
+EMAIL TO: user4@cytonn.com
+SUBJECT: New Task Assigned: Optics
+BODY: You have been assigned a new task: Optics
+Deadline: 2025-07-13
+
+EMAIL TO: user@example.com
+SUBJECT: New Task Assigned: New Project
+BODY: You have been assigned a new task: New Project
+Deadline: 2025-07-15
+
+EMAIL TO: user@cytonn.com
+SUBJECT: New Task Assigned: New Project
+BODY: You have been assigned a new task: New Project
+Deadline: 2025-07-15
+
+EMAIL TO: user3@cytonn.com
+SUBJECT: New Task Assigned: New Project
+BODY: You have been assigned a new task: New Project
+Deadline: 2025-07-15
+
+EMAIL TO: user4@cytonn.com
+SUBJECT: New Task Assigned: New Project
+BODY: You have been assigned a new task: New Project
+Deadline: 2025-07-15
+
+EMAIL TO: denniskimatu4028@gmail.com
+SUBJECT: New Task Assigned: Project
+BODY: You have been assigned a new task: Project
+Deadline: 2025-08-14
+

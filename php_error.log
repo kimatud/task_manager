@@ -1,0 +1,6 @@
+[13-Aug-2025 13:23:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\task_manager\admin_api.php:461
+Stack trace:
+#0 C:\xampp\htdocs\task_manager\admin_api.php(461): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\task_manager\admin_api.php(53): handlePostRequest()
+#2 {main}
+  thrown in C:\xampp\htdocs\task_manager\admin_api.php on line 461

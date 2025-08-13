@@ -1,0 +1,268 @@
+Task Manager Project Documentation
+1. Project Overview
+The Task Manager is a web-based application designed to facilitate task assignment and management within an organization or team. It provides a clear separation of roles, offering an administrative interface for creating and managing users and tasks, and a user-specific dashboard for viewing assigned tasks, updating their status, and submitting completed assignments.
+
+2. Key Features
+The application is built with distinct functionalities for two primary roles: Admin and User.
+
+2.1. Admin Features
+User Management:
+
+Add Users: Create new user accounts with specified usernames, emails, passwords, and roles (user/admin).
+
+View All Users: Display a paginated list of all registered users.
+
+Search Users: Filter users by username or email for quick lookup.
+
+Edit Users: Modify existing user details, including username, email, and role. Password can be updated or left unchanged.
+
+Delete Users: Remove user accounts from the system.
+
+Task Management:
+
+Add Tasks: Create new tasks with a title, description, deadline, and assign them to one or more users.
+
+Upload Assignment Forms: Attach initial assignment documents (PDF, DOC, DOCX, TXT) to tasks for users to download.
+
+View All Tasks: Display a paginated list of all tasks in the system.
+
+Search Tasks: Filter tasks by title or assigned user.
+
+Edit Tasks: Update task details, including title, description, deadline, assigned users, and status. New assignment forms can be uploaded to replace existing ones.
+
+Delete Tasks: Remove tasks from the system, including any associated uploaded files (admin forms and completed assignments).
+
+Role-Based Access Control: Ensures that only authenticated administrators can access and perform administrative functions.
+
+2.2. User Features
+View Assigned Tasks: Users can see a list of all tasks assigned to them.
+
+Task Details: View task title, description, deadline, and current status.
+
+Download Assignment Forms: Access and download the assignment forms uploaded by the admin.
+
+Update Task Status: Change the status of an assigned task (e.g., from "Pending" to "In Progress" or "Completed").
+
+A confirmation prompt appears when attempting to mark a task as "Completed." Once marked "Completed," the status cannot be changed back.
+
+Upload Completed Assignments: Submit their completed work by uploading files (PDF, DOC, DOCX, TXT, ZIP, RAR, JPG, JPEG, PNG).
+
+Users can replace previously uploaded assignments.
+
+For completed tasks without an uploaded file, a "Not uploaded" indicator is shown.
+
+Role-Based Access Control: Ensures that regular users can only access their assigned tasks and cannot perform administrative actions.
+
+2.3. Automated Features
+Deadline Checker: A background script (check_deadlines.php) automatically updates the status of tasks to "Deadline Reached" if their deadline has passed and they are still in "Pending" or "In Progress" status. This script is intended to be run via a cron job.
+
+3. Technologies Used
+Backend: PHP (for server-side logic and API endpoints)
+
+Database: MySQL (managed via db_connect.php)
+
+Frontend:
+
+HTML5
+
+CSS3 (primarily Tailwind CSS with a custom style.css for minor overrides)
+
+JavaScript (for dynamic UI updates, AJAX calls, and form handling)
+
+Styling Framework: Tailwind CSS (loaded via CDN for simplicity)
+
+4. Setup Instructions
+Follow these steps to set up and run the Task Manager project on your local environment.
+
+4.1. Prerequisites
+A web server (e.g., Apache, Nginx) with PHP installed (PHP 7.4+ recommended).
+
+MySQL database server.
+
+A tool to manage your MySQL database (e.g., phpMyAdmin, MySQL Workbench, DBeaver).
+
+4.2. Database Setup
+Create Database: Create a new MySQL database, for example, named task_manager.
+
+CREATE DATABASE task_manager;
+USE task_manager;
+
+Import SQL Dump: Import the provided sql-dump.sql file into your newly created database. This will set up the users and tasks tables.
+
+Using phpMyAdmin: Select your database, go to the "Import" tab, choose the sql-dump.sql file, and click "Go".
+
+Using MySQL CLI:
+
+mysql -u your_username -p task_manager < sql-dump.sql
+
+Update Admin Password Hash:
+
+The sql-dump.sql includes a placeholder for the admin user's password. You must generate a new hash for your desired password.
+
+Navigate to the generate_hash.php file in your browser or run it from the command line:
+
+php generate_hash.php
+
+This script will output a hashed password. Copy this hash.
+
+Open your database, go to the users table, find the admin user, and replace YOUR_NEWLY_GENERATED_HASH_HERE in the password column with the hash you just generated.
+
+4.3. Project Files Setup
+Place Files: Place all project files (PHP, JS, CSS) into your web server's document root (e.g., htdocs for Apache, www for Nginx).
+
+Database Connection (db_connect.php):
+
+Open db_connect.php.
+
+Update the database connection details (DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME) to match your MySQL setup.
+
+// db_connect.php
+define('DB_SERVER', 'localhost');
+define('DB_USERNAME', 'your_db_username');
+define('DB_PASSWORD', 'your_db_password');
+define('DB_NAME', 'task_manager'); // Or whatever you named your database
+
+Create Upload Directories:
+
+Create a directory named uploads in the root of your project.
+
+Inside uploads, create two subdirectories: admin_forms and completed_assignments.
+
+Ensure your web server has write permissions to these directories.
+
+your_project_root/
+├── admin_api.php
+├── auth.php
+├── check_deadlines.php
+├── db_connect.php
+├── generate_hash.php
+├── index.php
+├── script.js
+├── style.css
+├── user_api.php
+├── user_dashboard.php
+└── uploads/
+    ├── admin_forms/
+    └── completed_assignments/
+
+4.4. Set Up Automatic Deadline Checker (Cron Job)
+To ensure tasks are automatically marked as "Deadline Reached," you should set up a cron job (on Linux/macOS) or a scheduled task (on Windows) to run check_deadlines.php periodically (e.g., once every hour or day).
+
+Example Cron Job (Linux/macOS):
+
+Open your crontab for editing:
+
+crontab -e
+
+Add the following line to run the script every day at midnight (00:00):
+
+0 0 * * * /usr/bin/php /path/to/your/project/check_deadlines.php >> /path/to/your/project/deadline_checker.log 2>&1
+
+Replace /usr/bin/php with the actual path to your PHP executable.
+
+Replace /path/to/your/project/check_deadlines.php with the full path to your check_deadlines.php file.
+
+The >> ... 2>&1 part redirects output and errors to a log file for debugging.
+
+5. Credentials
+Default Admin Credentials:
+Username: admin
+
+Password: The hashed password you generated and inserted into the database. (Initially, you would use the plain text "password" with generate_hash.php to get the hash).
+
+6. Project File Structure Overview
+index.php: The main login page.
+
+auth.php: Handles user login and logout processes.
+
+db_connect.php: Establishes the connection to the MySQL database.
+
+admin_dashboard.php: The main interface for administrators to manage users and tasks.
+
+user_dashboard.php: The main interface for regular users to view and manage their assigned tasks.
+
+admin_api.php: RESTful API endpoint for all administrator-related data operations (CRUD for users and tasks).
+
+user_api.php: RESTful API endpoint for user-related data operations (fetching tasks, updating status, uploading assignments).
+
+script.js: Contains all client-side JavaScript logic for dynamic UI updates, form submissions, data fetching, and pagination.
+
+style.css: Contains custom CSS styles, complementing Tailwind CSS.
+
+generate_hash.php: A utility script to generate a password hash for new admin users.
+
+check_deadlines.php: A background script to automatically update task statuses based on deadlines.
+
+uploads/: Directory for storing uploaded files (assignment forms and completed assignments).
+
+admin_forms/: Stores assignment forms uploaded by administrators.
+
+completed_assignments/: Stores completed assignment files uploaded by users.
+
+7. Usage Guide
+7.1. Admin Usage
+Login: Access index.php in your browser and log in with the admin credentials.
+
+Navigate Tabs: Use the "Manage Users" and "Manage Tasks" tabs to switch between functionalities.
+
+User Management:
+
+Use the "Add/Edit User" form to create new users or update existing ones (select a user from the table to populate the form for editing).
+
+Use the search bar to filter the user list.
+
+Use the "Edit" and "Delete" buttons in the table rows to manage individual users.
+
+Use pagination controls to navigate through user pages.
+
+Task Management:
+
+Use the "Add/Edit Task" form to create new tasks or update existing ones.
+
+The "Assign To User(s)" field allows you to select multiple users via a dropdown.
+
+Upload an "Assignment Form" if needed.
+
+Use the search bar to filter the task list.
+
+Use the "Edit" and "Delete" buttons in the table rows to manage individual tasks.
+
+Use pagination controls to navigate through task pages.
+
+7.2. User Usage
+Login: Access index.php in your browser and log in with user credentials.
+
+View Tasks: Your dashboard will display all tasks assigned to you.
+
+Update Status: Use the dropdown in the "Status" column to update the task's progress. Be mindful of the confirmation for "Completed" status.
+
+Download Assignments: Click on the "View Assignment" link in the "Admin Form" column to download the initial assignment document.
+
+Upload Completed Work:
+
+For tasks without an uploaded assignment, click the "Choose File" button to select and upload your completed work.
+
+For tasks with an existing uploaded assignment, you will see a "View Assignment" link and a "Change" button to replace the file.
+
+For tasks marked "Completed" without an uploaded file, a "Not uploaded" indicator will be shown.
+
+8. Future Enhancements (Ideas)
+User Registration: Implement a public user registration page.
+
+Notifications: Add email or in-app notifications for new tasks, deadline reminders, or status updates.
+
+Task Prioritization: Allow setting and sorting tasks by priority (e.g., High, Medium, Low).
+
+File Previews: Implement in-browser previews for uploaded documents/images.
+
+Comments/Discussions: Add a section for comments or discussions on each task.
+
+Reporting: Generate reports on task completion rates, user workload, etc.
+
+Multi-file Uploads: Allow users to upload multiple files for completed assignments.
+
+Advanced Filtering: More robust filtering options for tasks (by status, deadline range, etc.).
+
+User Profiles: Allow users to manage their own profiles.
+
+This documentation should provide a comprehensive guide for understanding, setting up, and using your Task Manager project.

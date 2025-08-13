@@ -1,0 +1,60 @@
+/* style.css - Custom styles */
+
+/* Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Base styles for forms and tables (Tailwind handles most, but for consistency) */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"],
+textarea,
+select {
+    border-radius: 0.375rem; /* Tailwind's rounded-md */
+    border-width: 1px;
+    border-color: #d1d5db; /* Tailwind's border-gray-300 */
+    padding: 0.5rem 0.75rem; /* Tailwind's px-3 py-2 */
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05); /* Tailwind's shadow-sm */
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    outline: none;
+    border-color: #6366f1; /* Tailwind's focus:border-indigo-500 */
+    box-shadow: 0 0 0 1px #6366f1; /* Tailwind's focus:ring-indigo-500 */
+}
+
+/* Specific styles for delete buttons (red color is handled by Tailwind classes in HTML) */
+.btn-delete {
+    background-color: #ef4444; /* Tailwind's bg-red-500 */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: 600;
+    transition: background-color 0.15s ease-in-out;
+}
+
+.btn-delete:hover {
+    background-color: #dc2626; /* Tailwind's hover:bg-red-600 */
+}
+
+/* Custom modal styling (Tailwind handles most, but for clarity) */
+#customModal {
+    transition: opacity 0.3s ease-in-out;
+}
+
+#customModal.hidden {
+    opacity: 0;
+    pointer-events: none; /* Allows clicks to pass through when hidden */
+}
+
+#customModal:not(.hidden) {
+    opacity: 1;
+}
+
+/* You can add more custom styles here if needed, but Tailwind is used extensively */

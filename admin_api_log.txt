@@ -1,0 +1,1544 @@
+[2025-07-12 15:27:31] API Request Received: GET for resource tasks
+[2025-07-12 15:27:31] Fetched 3 tasks (search: )
+[2025-07-12 15:27:31] API Request Finished.
+[2025-07-12 15:27:31] API Request Received: GET for resource users
+[2025-07-12 15:27:31] Fetched 4 users (search: )
+[2025-07-12 15:27:31] API Request Finished.
+[2025-07-12 15:27:31] API Request Received: GET for resource users
+[2025-07-12 15:27:31] Fetched 4 users (search: )
+[2025-07-12 15:27:31] API Request Finished.
+[2025-07-12 15:27:43] API Request Received: GET for resource tasks
+[2025-07-12 15:27:43] Fetched 3 tasks (search: )
+[2025-07-12 15:27:43] API Request Finished.
+[2025-07-12 15:27:43] API Request Received: GET for resource users
+[2025-07-12 15:27:43] Fetched 4 users (search: )
+[2025-07-12 15:27:43] API Request Finished.
+[2025-07-12 15:27:43] API Request Received: GET for resource users
+[2025-07-12 15:27:43] Fetched 4 users (search: )
+[2025-07-12 15:27:43] API Request Finished.
+[2025-07-12 15:29:41] API Request Received: GET for resource users
+[2025-07-12 15:29:41] Fetched 4 users (search: )
+[2025-07-12 15:29:41] API Request Finished.
+[2025-07-12 15:29:41] API Request Received: GET for resource tasks
+[2025-07-12 15:29:41] Fetched 3 tasks (search: )
+[2025-07-12 15:29:41] API Request Finished.
+[2025-07-12 15:29:41] API Request Received: GET for resource users
+[2025-07-12 15:29:41] Fetched 4 users (search: )
+[2025-07-12 15:29:41] API Request Finished.
+[2025-07-12 15:29:52] API Request Received: GET for resource users
+[2025-07-12 15:29:52] Fetched 4 users (search: )
+[2025-07-12 15:29:52] API Request Finished.
+[2025-07-12 15:29:52] API Request Received: GET for resource tasks
+[2025-07-12 15:29:52] Fetched 3 tasks (search: )
+[2025-07-12 15:29:52] API Request Finished.
+[2025-07-12 15:29:52] API Request Received: GET for resource users
+[2025-07-12 15:29:52] Fetched 4 users (search: )
+[2025-07-12 15:29:52] API Request Finished.
+[2025-07-12 15:30:02] API Request Received: GET for resource tasks
+[2025-07-12 15:30:02] Fetched 3 tasks (search: )
+[2025-07-12 15:30:02] API Request Finished.
+[2025-07-12 15:30:02] API Request Received: GET for resource users
+[2025-07-12 15:30:02] Fetched 4 users (search: )
+[2025-07-12 15:30:02] API Request Finished.
+[2025-07-12 15:30:02] API Request Received: GET for resource users
+[2025-07-12 15:30:02] Fetched 4 users (search: )
+[2025-07-12 15:30:02] API Request Finished.
+[2025-07-12 15:30:25] API Request Received: GET for resource users
+[2025-07-12 15:30:25] Fetched 4 users (search: )
+[2025-07-12 15:30:25] API Request Finished.
+[2025-07-12 15:30:25] API Request Received: GET for resource users
+[2025-07-12 15:30:25] Fetched 4 users (search: )
+[2025-07-12 15:30:25] API Request Finished.
+[2025-07-12 15:30:25] API Request Received: GET for resource tasks
+[2025-07-12 15:30:25] Fetched 3 tasks (search: )
+[2025-07-12 15:30:25] API Request Finished.
+[2025-07-12 15:32:05] API Request Received: GET for resource users
+[2025-07-12 15:32:05] Fetched 4 users (search: )
+[2025-07-12 15:32:05] API Request Finished.
+[2025-07-12 15:32:05] API Request Received: GET for resource users
+[2025-07-12 15:32:05] Fetched 4 users (search: )
+[2025-07-12 15:32:05] API Request Finished.
+[2025-07-12 15:32:05] API Request Received: GET for resource tasks
+[2025-07-12 15:32:05] Fetched 3 tasks (search: )
+[2025-07-12 15:32:05] API Request Finished.
+[2025-07-12 15:32:13] API Request Received: GET for resource users
+[2025-07-12 15:32:13] Fetched 4 users (search: )
+[2025-07-12 15:32:13] API Request Finished.
+[2025-07-12 15:32:13] API Request Received: GET for resource tasks
+[2025-07-12 15:32:13] Fetched 3 tasks (search: )
+[2025-07-12 15:32:13] API Request Finished.
+[2025-07-12 15:32:13] API Request Received: GET for resource users
+[2025-07-12 15:32:13] Fetched 4 users (search: )
+[2025-07-12 15:32:13] API Request Finished.
+[2025-07-12 15:32:34] API Request Received: GET for resource users
+[2025-07-12 15:32:34] Fetched 4 users (search: )
+[2025-07-12 15:32:34] API Request Finished.
+[2025-07-12 15:32:34] API Request Received: GET for resource tasks
+[2025-07-12 15:32:34] Fetched 3 tasks (search: )
+[2025-07-12 15:32:34] API Request Finished.
+[2025-07-12 15:32:34] API Request Received: GET for resource users
+[2025-07-12 15:32:34] Fetched 4 users (search: )
+[2025-07-12 15:32:34] API Request Finished.
+[2025-07-12 15:34:44] API Request Received: GET for resource users
+[2025-07-12 15:34:44] Fetched 4 users (search: )
+[2025-07-12 15:34:44] API Request Finished.
+[2025-07-12 15:34:44] API Request Received: GET for resource tasks
+[2025-07-12 15:34:44] Fetched 3 tasks (search: )
+[2025-07-12 15:34:44] API Request Finished.
+[2025-07-12 15:34:44] API Request Received: GET for resource users
+[2025-07-12 15:34:44] Fetched 4 users (search: )
+[2025-07-12 15:34:44] API Request Finished.
+[2025-07-12 15:36:13] API Request Received: GET for resource users
+[2025-07-12 15:36:13] Fetched 4 users (search: )
+[2025-07-12 15:36:13] API Request Finished.
+[2025-07-12 15:36:13] API Request Received: GET for resource users
+[2025-07-12 15:36:13] Fetched 4 users (search: )
+[2025-07-12 15:36:13] API Request Finished.
+[2025-07-12 15:36:13] API Request Received: GET for resource tasks
+[2025-07-12 15:36:13] Fetched 3 tasks (search: )
+[2025-07-12 15:36:13] API Request Finished.
+[2025-07-12 15:37:50] API Request Received: GET for resource tasks
+[2025-07-12 15:37:50] Fetched 3 tasks (search: )
+[2025-07-12 15:37:50] API Request Finished.
+[2025-07-12 15:37:50] API Request Received: GET for resource users
+[2025-07-12 15:37:50] Fetched 4 users (search: )
+[2025-07-12 15:37:50] API Request Finished.
+[2025-07-12 15:37:50] API Request Received: GET for resource users
+[2025-07-12 15:37:50] Fetched 4 users (search: )
+[2025-07-12 15:37:50] API Request Finished.
+[2025-07-12 15:37:54] API Request Received: DELETE for resource tasks
+[2025-07-12 15:37:54] Task DELETE request. Task ID: 9
+[2025-07-12 15:37:54] Old admin form file deleted: uploads/forms/admin_form_68724d3633b2d_download (1).pdf
+[2025-07-12 15:37:54] Task deleted successfully. ID: 9
+[2025-07-12 15:37:54] API Request Finished.
+[2025-07-12 15:37:54] API Request Received: GET for resource tasks
+[2025-07-12 15:37:54] Fetched 2 tasks (search: )
+[2025-07-12 15:37:54] API Request Finished.
+[2025-07-12 15:38:20] API Request Received: GET for resource users
+[2025-07-12 15:38:20] Fetched 4 users (search: )
+[2025-07-12 15:38:20] API Request Finished.
+[2025-07-12 15:38:20] API Request Received: GET for resource tasks
+[2025-07-12 15:38:20] Fetched 2 tasks (search: )
+[2025-07-12 15:38:20] API Request Finished.
+[2025-07-12 15:38:20] API Request Received: GET for resource users
+[2025-07-12 15:38:20] Fetched 4 users (search: )
+[2025-07-12 15:38:20] API Request Finished.
+[2025-07-12 15:40:12] API Request Received: GET for resource users
+[2025-07-12 15:40:12] Fetched 4 users (search: )
+[2025-07-12 15:40:12] API Request Finished.
+[2025-07-12 15:40:12] API Request Received: GET for resource tasks
+[2025-07-12 15:40:12] Fetched 2 tasks (search: )
+[2025-07-12 15:40:12] API Request Finished.
+[2025-07-12 15:40:12] API Request Received: GET for resource users
+[2025-07-12 15:40:12] Fetched 4 users (search: )
+[2025-07-12 15:40:12] API Request Finished.
+[2025-07-12 15:40:55] API Request Received: GET for resource users
+[2025-07-12 15:40:55] Fetched 4 users (search: )
+[2025-07-12 15:40:55] API Request Finished.
+[2025-07-12 15:40:55] API Request Received: GET for resource users
+[2025-07-12 15:40:55] Fetched 4 users (search: )
+[2025-07-12 15:40:55] API Request Finished.
+[2025-07-12 15:40:55] API Request Received: GET for resource tasks
+[2025-07-12 15:40:55] Fetched 2 tasks (search: )
+[2025-07-12 15:40:55] API Request Finished.
+[2025-07-12 15:41:06] API Request Received: POST for resource tasks
+[2025-07-12 15:41:06] Task POST request. Task ID: 2
+[2025-07-12 15:41:06] Existing form_path for task 2: uploads/forms/admin_form_687231ada8b48_APA SAMPLE.docx
+[2025-07-12 15:41:06] File upload detected. Name: Dennis Kimatu Programme Form.pdf, Size: 219659
+[2025-07-12 15:41:06] File moved successfully to: uploads/forms/admin_form_687265f2d8b98_Dennis Kimatu Programme Form.pdf
+[2025-07-12 15:41:06] Old file deleted: uploads/forms/admin_form_687231ada8b48_APA SAMPLE.docx
+[2025-07-12 15:41:06] Preparing UPDATE statement for task 2. Form Path: uploads/forms/admin_form_687265f2d8b98_Dennis Kimatu Programme Form.pdf
+[2025-07-12 15:41:06] Task operation successful. Message: Task updated successfully.
+[2025-07-12 15:41:06] Email logged for user ID: 2
+[2025-07-12 15:41:06] API Request Finished.
+[2025-07-12 15:41:06] API Request Received: GET for resource tasks
+[2025-07-12 15:41:06] Fetched 2 tasks (search: )
+[2025-07-12 15:41:06] API Request Finished.
+[2025-07-12 15:41:43] API Request Received: POST for resource tasks
+[2025-07-12 15:41:43] Task POST request. Task ID: 
+[2025-07-12 15:41:43] File upload detected. Name: download (1).pdf, Size: 325835
+[2025-07-12 15:41:43] File moved successfully to: uploads/forms/admin_form_68726617b8bf9_download (1).pdf
+[2025-07-12 15:41:43] Preparing INSERT statement. Form Path: uploads/forms/admin_form_68726617b8bf9_download (1).pdf
+[2025-07-12 15:41:43] Task operation successful. Message: Task added successfully.
+[2025-07-12 15:41:43] Email logged for user ID: 3
+[2025-07-12 15:41:43] API Request Finished.
+[2025-07-12 15:41:43] API Request Received: GET for resource tasks
+[2025-07-12 15:41:43] Fetched 3 tasks (search: )
+[2025-07-12 15:41:43] API Request Finished.
+[2025-07-12 15:42:18] API Request Received: POST for resource tasks
+[2025-07-12 15:42:18] Task POST request. Task ID: 10
+[2025-07-12 15:42:18] Existing form_path for task 10: uploads/forms/admin_form_68726617b8bf9_download (1).pdf
+[2025-07-12 15:42:18] File upload detected. Name: ADVERT 01.04.2025.pdf, Size: 790661
+[2025-07-12 15:42:18] File moved successfully to: uploads/forms/admin_form_6872663a1abe4_ADVERT 01.04.2025.pdf
+[2025-07-12 15:42:18] Old file deleted: uploads/forms/admin_form_68726617b8bf9_download (1).pdf
+[2025-07-12 15:42:18] Preparing UPDATE statement for task 10. Form Path: uploads/forms/admin_form_6872663a1abe4_ADVERT 01.04.2025.pdf
+[2025-07-12 15:42:18] Task operation successful. Message: Task updated successfully.
+[2025-07-12 15:42:18] Email logged for user ID: 3
+[2025-07-12 15:42:18] API Request Finished.
+[2025-07-12 15:42:18] API Request Received: GET for resource tasks
+[2025-07-12 15:42:18] Fetched 3 tasks (search: )
+[2025-07-12 15:42:18] API Request Finished.
+[2025-07-12 15:44:39] API Request Received: GET for resource users
+[2025-07-12 15:44:39] Fetched 4 users (search: )
+[2025-07-12 15:44:39] API Request Finished.
+[2025-07-12 15:44:39] API Request Received: GET for resource users
+[2025-07-12 15:44:39] Fetched 4 users (search: )
+[2025-07-12 15:44:39] API Request Finished.
+[2025-07-12 15:44:39] API Request Received: GET for resource tasks
+[2025-07-12 15:44:39] Fetched 3 tasks (search: )
+[2025-07-12 15:44:39] API Request Finished.
+[2025-07-12 15:45:03] API Request Received: POST for resource tasks
+[2025-07-12 15:45:03] Task POST request. Task ID: 2
+[2025-07-12 15:45:03] Existing form_path for task 2: uploads/forms/admin_form_687265f2d8b98_Dennis Kimatu Programme Form.pdf
+[2025-07-12 15:45:03] File upload detected. Name: Tax Compliance Certificate.pdf, Size: 17696
+[2025-07-12 15:45:03] File moved successfully to: uploads/forms/admin_form_687266df6285d_Tax Compliance Certificate.pdf
+[2025-07-12 15:45:03] Old file deleted: uploads/forms/admin_form_687265f2d8b98_Dennis Kimatu Programme Form.pdf
+[2025-07-12 15:45:03] Preparing UPDATE statement for task 2. Form Path: uploads/forms/admin_form_687266df6285d_Tax Compliance Certificate.pdf
+[2025-07-12 15:45:03] Task operation successful. Message: Task updated successfully.
+[2025-07-12 15:45:03] Email logged for user ID: 2
+[2025-07-12 15:45:03] API Request Finished.
+[2025-07-12 15:45:03] API Request Received: GET for resource tasks
+[2025-07-12 15:45:03] Fetched 3 tasks (search: )
+[2025-07-12 15:45:03] API Request Finished.
+[2025-07-12 15:45:25] API Request Received: POST for resource users
+[2025-07-12 15:45:25] User added successfully. ID: 5
+[2025-07-12 15:45:25] API Request Finished.
+[2025-07-12 15:45:25] API Request Received: GET for resource users
+[2025-07-12 15:45:25] Fetched 5 users (search: )
+[2025-07-12 15:45:25] API Request Finished.
+[2025-07-12 15:45:25] API Request Received: GET for resource users
+[2025-07-12 15:45:25] Fetched 5 users (search: )
+[2025-07-12 15:45:25] API Request Finished.
+[2025-07-12 15:45:29] API Request Received: GET for resource users
+[2025-07-12 15:45:29] Fetched 5 users (search: )
+[2025-07-12 15:45:29] API Request Finished.
+[2025-07-12 15:45:29] API Request Received: GET for resource users
+[2025-07-12 15:45:29] Fetched 5 users (search: )
+[2025-07-12 15:45:29] API Request Finished.
+[2025-07-12 15:45:29] API Request Received: GET for resource tasks
+[2025-07-12 15:45:29] Fetched 3 tasks (search: )
+[2025-07-12 15:45:29] API Request Finished.
+[2025-07-12 15:47:47] API Request Received: GET for resource users
+[2025-07-12 15:47:47] Fetched 5 users (search: )
+[2025-07-12 15:47:47] API Request Finished.
+[2025-07-12 15:47:47] API Request Received: GET for resource users
+[2025-07-12 15:47:47] Fetched 5 users (search: )
+[2025-07-12 15:47:47] API Request Finished.
+[2025-07-12 15:47:47] API Request Received: GET for resource tasks
+[2025-07-12 15:47:47] Fetched 3 tasks (search: )
+[2025-07-12 15:47:47] API Request Finished.
+[2025-07-12 15:47:55] API Request Received: GET for resource tasks
+[2025-07-12 15:47:55] Fetched 3 tasks (search: )
+[2025-07-12 15:47:55] API Request Finished.
+[2025-07-12 15:47:55] API Request Received: GET for resource users
+[2025-07-12 15:47:55] Fetched 5 users (search: )
+[2025-07-12 15:47:55] API Request Finished.
+[2025-07-12 15:47:55] API Request Received: GET for resource users
+[2025-07-12 15:47:55] Fetched 5 users (search: )
+[2025-07-12 15:47:55] API Request Finished.
+[2025-07-12 15:48:16] API Request Received: POST for resource users
+[2025-07-12 15:48:17] User added successfully. ID: 6
+[2025-07-12 15:48:17] API Request Finished.
+[2025-07-12 15:48:17] API Request Received: GET for resource users
+[2025-07-12 15:48:17] Fetched 6 users (search: )
+[2025-07-12 15:48:17] API Request Finished.
+[2025-07-12 15:48:17] API Request Received: GET for resource users
+[2025-07-12 15:48:17] Fetched 6 users (search: )
+[2025-07-12 15:48:17] API Request Finished.
+[2025-07-12 15:48:50] API Request Received: POST for resource tasks
+[2025-07-12 15:48:50] Task POST request. Task ID: 
+[2025-07-12 15:48:50] File upload detected. Name: OneHive+Platform+Overview_c59811e8.pdf, Size: 1238389
+[2025-07-12 15:48:50] File moved successfully to: uploads/forms/admin_form_687267c213297_OneHive+Platform+Overview_c59811e8.pdf
+[2025-07-12 15:48:50] Preparing INSERT statement. Form Path: uploads/forms/admin_form_687267c213297_OneHive+Platform+Overview_c59811e8.pdf
+[2025-07-12 15:48:50] Task operation successful. Message: Task added successfully.
+[2025-07-12 15:48:50] Email logged for user ID: 6
+[2025-07-12 15:48:50] API Request Finished.
+[2025-07-12 15:48:50] API Request Received: GET for resource tasks
+[2025-07-12 15:48:50] Fetched 4 tasks (search: )
+[2025-07-12 15:48:50] API Request Finished.
+[2025-07-12 15:52:43] API Request Received: GET for resource users
+[2025-07-12 15:52:43] Fetched 6 users (search: )
+[2025-07-12 15:52:43] API Request Finished.
+[2025-07-12 15:52:43] API Request Received: GET for resource users
+[2025-07-12 15:52:43] Fetched 6 users (search: )
+[2025-07-12 15:52:43] API Request Finished.
+[2025-07-12 15:52:43] API Request Received: GET for resource tasks
+[2025-07-12 15:52:43] Fetched 4 tasks (search: )
+[2025-07-12 15:52:43] API Request Finished.
+[2025-07-12 15:53:06] API Request Received: POST for resource tasks
+[2025-07-12 15:53:06] Task POST request. Task ID: 10
+[2025-07-12 15:53:06] Existing form_path for task 10: uploads/forms/admin_form_6872663a1abe4_ADVERT 01.04.2025.pdf
+[2025-07-12 15:53:06] File upload detected. Name: Dennis Kioko-English Speaking.pdf, Size: 650666
+[2025-07-12 15:53:06] File moved successfully to: uploads/forms/admin_form_687268c2098b5_Dennis Kioko-English Speaking.pdf
+[2025-07-12 15:53:06] Old file deleted: uploads/forms/admin_form_6872663a1abe4_ADVERT 01.04.2025.pdf
+[2025-07-12 15:53:06] Preparing UPDATE statement for task 10. Form Path: uploads/forms/admin_form_687268c2098b5_Dennis Kioko-English Speaking.pdf
+[2025-07-12 15:53:06] Task operation successful. Message: Task updated successfully.
+[2025-07-12 15:53:06] Email logged for user ID: 3
+[2025-07-12 15:53:06] API Request Finished.
+[2025-07-12 15:53:06] API Request Received: GET for resource tasks
+[2025-07-12 15:53:06] Fetched 4 tasks (search: )
+[2025-07-12 15:53:06] API Request Finished.
+[2025-07-12 15:53:36] API Request Received: POST for resource users
+[2025-07-12 15:53:36] User added successfully. ID: 7
+[2025-07-12 15:53:36] API Request Finished.
+[2025-07-12 15:53:36] API Request Received: GET for resource users
+[2025-07-12 15:53:36] Fetched 7 users (search: )
+[2025-07-12 15:53:36] API Request Finished.
+[2025-07-12 15:53:36] API Request Received: GET for resource users
+[2025-07-12 15:53:36] Fetched 7 users (search: )
+[2025-07-12 15:53:36] API Request Finished.
+[2025-07-12 16:00:18] API Request Received: GET for resource users
+[2025-07-12 16:00:18] Fetched 7 users (search: )
+[2025-07-12 16:00:18] API Request Finished.
+[2025-07-12 16:00:18] API Request Received: GET for resource tasks
+[2025-07-12 16:00:18] Fetched 4 tasks (search: )
+[2025-07-12 16:00:18] API Request Finished.
+[2025-07-12 16:00:18] API Request Received: GET for resource users
+[2025-07-12 16:00:18] Fetched 7 users (search: )
+[2025-07-12 16:00:18] API Request Finished.
+[2025-07-12 19:56:25] API Request Received: GET for resource users
+[2025-07-12 19:56:25] Fetched 2 users (search: admin)
+[2025-07-12 19:56:25] API Request Finished.
+[2025-07-12 20:08:42] API Request Received: GET for resource users
+[2025-07-12 20:08:42] Fetched 7 users (search: )
+[2025-07-12 20:08:42] API Request Finished.
+[2025-07-12 20:08:42] API Request Received: GET for resource tasks
+[2025-07-12 20:08:42] Fetched 4 tasks (search: )
+[2025-07-12 20:08:42] API Request Finished.
+[2025-07-12 20:08:42] API Request Received: GET for resource users
+[2025-07-12 20:08:42] Fetched 7 users (search: )
+[2025-07-12 20:08:42] API Request Finished.
+[2025-07-12 20:10:40] API Request Received: POST for resource tasks
+[2025-07-12 20:10:40] Task POST request. Task ID: , Assigned User IDs: 2,3,5,6,7
+[2025-07-12 20:10:40] File upload detected. Name: Government Compliance and Recommendation Letters.pdf, Size: 677427
+[2025-07-12 20:10:40] File moved successfully to: uploads/forms/admin_form_6872a52061441_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 20:10:40] Task assigned to user ID 2 successfully.
+[2025-07-12 20:10:40] Email logged for user ID: 2
+[2025-07-12 20:10:40] Task assigned to user ID 3 successfully.
+[2025-07-12 20:10:40] Email logged for user ID: 3
+[2025-07-12 20:10:40] Task assigned to user ID 5 successfully.
+[2025-07-12 20:10:40] Email logged for user ID: 5
+[2025-07-12 20:10:40] Task assigned to user ID 6 successfully.
+[2025-07-12 20:10:40] Email logged for user ID: 6
+[2025-07-12 20:10:40] Task assigned to user ID 7 successfully.
+[2025-07-12 20:10:40] Email logged for user ID: 7
+[2025-07-12 20:10:40] API Request Finished.
+[2025-07-12 20:10:54] API Request Received: GET for resource users
+[2025-07-12 20:10:54] Fetched 7 users (search: )
+[2025-07-12 20:10:54] API Request Finished.
+[2025-07-12 20:10:54] API Request Received: GET for resource tasks
+[2025-07-12 20:10:54] Fetched 9 tasks (search: )
+[2025-07-12 20:10:54] API Request Finished.
+[2025-07-12 20:10:54] API Request Received: GET for resource users
+[2025-07-12 20:10:54] Fetched 7 users (search: )
+[2025-07-12 20:10:54] API Request Finished.
+[2025-07-12 20:12:41] API Request Received: GET for resource users
+[2025-07-12 20:12:41] Fetched 7 users (search: )
+[2025-07-12 20:12:41] API Request Finished.
+[2025-07-12 20:12:41] API Request Received: GET for resource tasks
+[2025-07-12 20:12:41] Fetched 9 tasks (search: )
+[2025-07-12 20:12:41] API Request Finished.
+[2025-07-12 20:12:41] API Request Received: GET for resource users
+[2025-07-12 20:12:41] Fetched 7 users (search: )
+[2025-07-12 20:12:41] API Request Finished.
+[2025-07-12 20:13:16] API Request Received: POST for resource tasks
+[2025-07-12 20:13:16] Task POST request. Task ID: , Assigned User IDs: 2,3
+[2025-07-12 20:13:16] File upload detected. Name: Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf, Size: 966864
+[2025-07-12 20:13:16] File moved successfully to: uploads/forms/admin_form_6872a5bc598cb_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 20:13:16] Task assigned to user ID 2 successfully.
+[2025-07-12 20:13:16] Email logged for user ID: 2
+[2025-07-12 20:13:16] Task assigned to user ID 3 successfully.
+[2025-07-12 20:13:16] Email logged for user ID: 3
+[2025-07-12 20:13:16] API Request Finished.
+[2025-07-12 20:13:26] API Request Received: GET for resource users
+[2025-07-12 20:13:26] Fetched 7 users (search: )
+[2025-07-12 20:13:26] API Request Finished.
+[2025-07-12 20:13:26] API Request Received: GET for resource tasks
+[2025-07-12 20:13:26] Fetched 11 tasks (search: )
+[2025-07-12 20:13:26] API Request Finished.
+[2025-07-12 20:13:26] API Request Received: GET for resource users
+[2025-07-12 20:13:26] Fetched 7 users (search: )
+[2025-07-12 20:13:26] API Request Finished.
+[2025-07-12 20:23:04] API Request Received: GET for resource users
+[2025-07-12 20:23:04] Fetched 7 users (search: )
+[2025-07-12 20:23:04] API Request Finished.
+[2025-07-12 20:23:04] API Request Received: GET for resource tasks
+[2025-07-12 20:23:04] Fetched 11 tasks (search: )
+[2025-07-12 20:23:04] API Request Finished.
+[2025-07-12 20:23:04] API Request Received: GET for resource users
+[2025-07-12 20:23:04] Fetched 7 users (search: )
+[2025-07-12 20:23:04] API Request Finished.
+[2025-07-12 20:23:08] API Request Received: GET for resource users
+[2025-07-12 20:23:08] Fetched 7 users (search: )
+[2025-07-12 20:23:08] API Request Finished.
+[2025-07-12 20:23:08] API Request Received: GET for resource tasks
+[2025-07-12 20:23:08] Fetched 11 tasks (search: )
+[2025-07-12 20:23:08] API Request Finished.
+[2025-07-12 20:23:08] API Request Received: GET for resource users
+[2025-07-12 20:23:08] Fetched 7 users (search: )
+[2025-07-12 20:23:08] API Request Finished.
+[2025-07-12 20:23:16] API Request Received: GET for resource users
+[2025-07-12 20:23:16] Fetched 7 users (search: )
+[2025-07-12 20:23:16] API Request Finished.
+[2025-07-12 20:23:16] API Request Received: GET for resource tasks
+[2025-07-12 20:23:16] Fetched 11 tasks (search: )
+[2025-07-12 20:23:16] API Request Finished.
+[2025-07-12 20:23:16] API Request Received: GET for resource users
+[2025-07-12 20:23:16] Fetched 7 users (search: )
+[2025-07-12 20:23:16] API Request Finished.
+[2025-07-12 20:25:58] API Request Received: GET for resource users
+[2025-07-12 20:25:58] Fetched 7 users (search: )
+[2025-07-12 20:25:58] API Request Finished.
+[2025-07-12 20:25:58] API Request Received: GET for resource tasks
+[2025-07-12 20:25:58] Fetched 11 tasks (search: )
+[2025-07-12 20:25:58] API Request Finished.
+[2025-07-12 20:25:58] API Request Received: GET for resource users
+[2025-07-12 20:25:58] Fetched 7 users (search: )
+[2025-07-12 20:25:58] API Request Finished.
+[2025-07-12 20:26:03] API Request Received: GET for resource users
+[2025-07-12 20:26:03] Fetched 7 users (search: )
+[2025-07-12 20:26:03] API Request Finished.
+[2025-07-12 20:26:03] API Request Received: GET for resource users
+[2025-07-12 20:26:03] Fetched 7 users (search: )
+[2025-07-12 20:26:03] API Request Finished.
+[2025-07-12 20:26:03] API Request Received: GET for resource tasks
+[2025-07-12 20:26:03] Fetched 11 tasks (search: )
+[2025-07-12 20:26:03] API Request Finished.
+[2025-07-12 20:33:03] API Request Received: GET for resource tasks
+[2025-07-12 20:33:03] Fetched 11 tasks (search: )
+[2025-07-12 20:33:03] API Request Received: GET for resource users
+[2025-07-12 20:33:03] Fetched 7 users (search: )
+[2025-07-12 20:33:03] API Request Received: GET for resource users
+[2025-07-12 20:33:03] Fetched 7 users (search: )
+[2025-07-12 20:33:41] API Request Received: POST for resource tasks
+[2025-07-12 20:33:41] Task POST request. Task ID: NEW, Assigned User IDs: 2,3,5
+[2025-07-12 20:33:41] File upload detected. Name: Government Compliance and Recommendation Letters.pdf, Size: 677427
+[2025-07-12 20:33:41] File moved successfully to: uploads/forms/admin_form_6872aa85786eb_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 20:33:41] Task assigned to user ID 2 successfully.
+[2025-07-12 20:33:41] Email logged for user ID: 2
+[2025-07-12 20:33:41] Task assigned to user ID 3 successfully.
+[2025-07-12 20:33:41] Email logged for user ID: 3
+[2025-07-12 20:33:41] Task assigned to user ID 5 successfully.
+[2025-07-12 20:33:41] Email logged for user ID: 5
+[2025-07-12 20:33:50] API Request Received: GET for resource tasks
+[2025-07-12 20:33:50] Fetched 14 tasks (search: )
+[2025-07-12 20:33:50] API Request Received: GET for resource users
+[2025-07-12 20:33:50] Fetched 7 users (search: )
+[2025-07-12 20:33:50] API Request Received: GET for resource users
+[2025-07-12 20:33:50] Fetched 7 users (search: )
+[2025-07-12 20:41:03] API Request Received: GET for resource users
+[2025-07-12 20:41:03] Fetched 7 users (search: )
+[2025-07-12 20:41:03] API Request Received: GET for resource users
+[2025-07-12 20:41:03] Fetched 7 users (search: )
+[2025-07-12 20:41:03] API Request Received: GET for resource tasks
+[2025-07-12 20:41:03] Fetched 14 tasks (search: )
+[2025-07-12 20:41:56] API Request Received: POST for resource tasks
+[2025-07-12 20:41:56] Task POST request. Task ID: NEW, Assigned User IDs: 2,3
+[2025-07-12 20:41:56] File upload detected. Name: Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf, Size: 966864
+[2025-07-12 20:41:56] File moved successfully to: uploads/forms/admin_form_6872ac7450107_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 20:41:56] Task assigned to user ID 2 successfully.
+[2025-07-12 20:41:56] Email logged for user ID: 2
+[2025-07-12 20:41:56] Task assigned to user ID 3 successfully.
+[2025-07-12 20:41:56] Email logged for user ID: 3
+[2025-07-12 20:43:01] API Request Received: GET for resource users
+[2025-07-12 20:43:01] Fetched 7 users (search: )
+[2025-07-12 20:43:01] API Request Received: GET for resource tasks
+[2025-07-12 20:43:01] Fetched 16 tasks (search: )
+[2025-07-12 20:43:01] API Request Received: GET for resource users
+[2025-07-12 20:43:01] Fetched 7 users (search: )
+[2025-07-12 20:49:07] API Request Received: GET for resource users
+[2025-07-12 20:49:07] Fetched 7 users (search: )
+[2025-07-12 20:49:07] API Request Received: GET for resource tasks
+[2025-07-12 20:49:07] Fetched 16 tasks (search: )
+[2025-07-12 20:49:07] API Request Received: GET for resource users
+[2025-07-12 20:49:07] Fetched 7 users (search: )
+[2025-07-12 20:49:40] API Request Received: GET for resource users
+[2025-07-12 20:49:40] Fetched 7 users (search: )
+[2025-07-12 20:49:40] API Request Received: GET for resource tasks
+[2025-07-12 20:49:40] Fetched 16 tasks (search: )
+[2025-07-12 20:49:40] API Request Received: GET for resource users
+[2025-07-12 20:49:40] Fetched 7 users (search: )
+[2025-07-12 20:50:48] API Request Received: POST for resource tasks
+[2025-07-12 20:50:48] Task POST request. Task ID: NEW, Assigned User IDs: 2,3,5
+[2025-07-12 20:50:48] File upload detected. Name: Government Compliance and Recommendation Letters.pdf, Size: 677427
+[2025-07-12 20:50:48] File moved successfully to: uploads/forms/admin_form_6872ae887c51e_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 20:50:48] Task assigned to user ID 2 successfully.
+[2025-07-12 20:50:48] Email logged for user ID: 2
+[2025-07-12 20:50:48] Task assigned to user ID 3 successfully.
+[2025-07-12 20:50:48] Email logged for user ID: 3
+[2025-07-12 20:50:48] Task assigned to user ID 5 successfully.
+[2025-07-12 20:50:48] Email logged for user ID: 5
+[2025-07-12 20:58:45] API Request Received: GET for resource users
+[2025-07-12 20:58:45] Fetched 7 users (search: )
+[2025-07-12 20:58:45] API Request Received: GET for resource users
+[2025-07-12 20:58:45] Fetched 7 users (search: )
+[2025-07-12 20:58:45] API Request Received: GET for resource tasks
+[2025-07-12 20:58:45] Fetched 19 tasks (search: )
+[2025-07-12 20:59:32] API Request Received: POST for resource tasks
+[2025-07-12 20:59:32] Raw POST data: Array
+(
+    [id] => 
+    [title] => Programming 4
+    [description] => rrbfgtht
+    [assigned_to_user_ids] => [3]
+    [deadline] => 2025-07-14
+    [status] => Pending
+)
+
+[2025-07-12 20:59:32] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Government Compliance and Recommendation Letters.pdf
+            [full_path] => Government Compliance and Recommendation Letters.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpDE9C.tmp
+            [error] => 0
+            [size] => 677427
+        )
+
+)
+
+[2025-07-12 20:59:32] Task POST request. Task ID: NEW, Assigned User IDs: 3
+[2025-07-12 20:59:32] File upload detected. Name: Government Compliance and Recommendation Letters.pdf, Size: 677427
+[2025-07-12 20:59:32] File moved successfully to: uploads/forms/admin_form_6872b094e4917_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 20:59:32] Task assigned to user ID 3 successfully.
+[2025-07-12 20:59:32] Email logged for user ID: 3
+[2025-07-12 20:59:40] API Request Received: GET for resource tasks
+[2025-07-12 20:59:40] Fetched 20 tasks (search: )
+[2025-07-12 20:59:40] API Request Received: GET for resource users
+[2025-07-12 20:59:40] Fetched 7 users (search: )
+[2025-07-12 20:59:40] API Request Received: GET for resource users
+[2025-07-12 20:59:40] Fetched 7 users (search: )
+[2025-07-12 21:00:04] API Request Received: DELETE for resource tasks
+[2025-07-12 21:00:04] Task DELETE request. Task ID: 10
+[2025-07-12 21:00:04] Old admin form file deleted: uploads/forms/admin_form_687268c2098b5_Dennis Kioko-English Speaking.pdf
+[2025-07-12 21:00:04] Old completed assignment file deleted: uploads/completed_assignments/assignment_68726a279de61_DENNIS KIOKO inABLE COVER LETTER.pdf
+[2025-07-12 21:00:04] Task deleted successfully. ID: 10
+[2025-07-12 21:00:04] API Request Received: GET for resource tasks
+[2025-07-12 21:00:04] Fetched 19 tasks (search: )
+[2025-07-12 21:12:49] API Request Received: GET for resource users
+[2025-07-12 21:12:49] Fetched 7 users (search: )
+[2025-07-12 21:12:49] API Request Received: GET for resource tasks
+[2025-07-12 21:12:49] Fetched 19 tasks (search: )
+[2025-07-12 21:12:49] API Request Received: GET for resource users
+[2025-07-12 21:12:49] Fetched 7 users (search: )
+[2025-07-12 21:12:58] API Request Received: DELETE for resource tasks
+[2025-07-12 21:12:58] Task DELETE request. Task ID: 16
+[2025-07-12 21:12:58] Old admin form file deleted: uploads/forms/admin_form_6872a52061441_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 21:12:58] Task deleted successfully. ID: 16
+[2025-07-12 21:12:58] API Request Received: GET for resource tasks
+[2025-07-12 21:12:58] Fetched 18 tasks (search: )
+[2025-07-12 21:13:01] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:01] Task DELETE request. Task ID: 26
+[2025-07-12 21:13:01] Old admin form file deleted: uploads/forms/admin_form_6872ae887c51e_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 21:13:01] Task deleted successfully. ID: 26
+[2025-07-12 21:13:01] API Request Received: GET for resource tasks
+[2025-07-12 21:13:01] Fetched 17 tasks (search: )
+[2025-07-12 21:13:05] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:05] Task DELETE request. Task ID: 20
+[2025-07-12 21:13:05] Old admin form file deleted: uploads/forms/admin_form_6872aa85786eb_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 21:13:05] Task deleted successfully. ID: 20
+[2025-07-12 21:13:05] API Request Received: GET for resource tasks
+[2025-07-12 21:13:05] Fetched 16 tasks (search: )
+[2025-07-12 21:13:07] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:07] Task DELETE request. Task ID: 18
+[2025-07-12 21:13:07] Old admin form file deleted: uploads/forms/admin_form_6872a5bc598cb_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 21:13:07] Task deleted successfully. ID: 18
+[2025-07-12 21:13:07] API Request Received: GET for resource tasks
+[2025-07-12 21:13:07] Fetched 15 tasks (search: )
+[2025-07-12 21:13:10] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:10] Task DELETE request. Task ID: 15
+[2025-07-12 21:13:10] Task deleted successfully. ID: 15
+[2025-07-12 21:13:10] API Request Received: GET for resource tasks
+[2025-07-12 21:13:10] Fetched 14 tasks (search: )
+[2025-07-12 21:13:14] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:14] Task DELETE request. Task ID: 13
+[2025-07-12 21:13:14] Task deleted successfully. ID: 13
+[2025-07-12 21:13:14] API Request Received: GET for resource tasks
+[2025-07-12 21:13:14] Fetched 13 tasks (search: )
+[2025-07-12 21:13:18] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:18] Task DELETE request. Task ID: 14
+[2025-07-12 21:13:18] Task deleted successfully. ID: 14
+[2025-07-12 21:13:18] API Request Received: GET for resource tasks
+[2025-07-12 21:13:18] Fetched 12 tasks (search: )
+[2025-07-12 21:13:22] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:22] Task DELETE request. Task ID: 24
+[2025-07-12 21:13:22] Task deleted successfully. ID: 24
+[2025-07-12 21:13:22] API Request Received: GET for resource tasks
+[2025-07-12 21:13:22] Fetched 11 tasks (search: )
+[2025-07-12 21:13:26] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:26] Task DELETE request. Task ID: 25
+[2025-07-12 21:13:26] Task deleted successfully. ID: 25
+[2025-07-12 21:13:26] API Request Received: GET for resource tasks
+[2025-07-12 21:13:26] Fetched 10 tasks (search: )
+[2025-07-12 21:13:29] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:29] Task DELETE request. Task ID: 23
+[2025-07-12 21:13:29] Old admin form file deleted: uploads/forms/admin_form_6872ac7450107_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 21:13:29] Task deleted successfully. ID: 23
+[2025-07-12 21:13:29] API Request Received: GET for resource tasks
+[2025-07-12 21:13:29] Fetched 9 tasks (search: )
+[2025-07-12 21:13:33] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:33] Task DELETE request. Task ID: 21
+[2025-07-12 21:13:33] Task deleted successfully. ID: 21
+[2025-07-12 21:13:33] API Request Received: GET for resource tasks
+[2025-07-12 21:13:33] Fetched 8 tasks (search: )
+[2025-07-12 21:13:36] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:36] Task DELETE request. Task ID: 27
+[2025-07-12 21:13:36] Old admin form file deleted: uploads/forms/admin_form_6872b094e4917_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 21:13:36] Task deleted successfully. ID: 27
+[2025-07-12 21:13:36] API Request Received: GET for resource tasks
+[2025-07-12 21:13:36] Fetched 7 tasks (search: )
+[2025-07-12 21:13:39] API Request Received: DELETE for resource tasks
+[2025-07-12 21:13:39] Task DELETE request. Task ID: 22
+[2025-07-12 21:13:39] Task deleted successfully. ID: 22
+[2025-07-12 21:13:40] API Request Received: GET for resource tasks
+[2025-07-12 21:13:40] Fetched 6 tasks (search: )
+[2025-07-12 21:14:28] API Request Received: POST for resource tasks
+[2025-07-12 21:14:28] Raw POST data: Array
+(
+    [id] => 
+    [title] => Project
+    [description] => Group Project
+    [assigned_to_user_ids] => [3,2]
+    [deadline] => 2025-07-15
+    [status] => Pending
+)
+
+[2025-07-12 21:14:28] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf
+            [full_path] => DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php8A30.tmp
+            [error] => 0
+            [size] => 1996806
+        )
+
+)
+
+[2025-07-12 21:14:28] Task POST request. Task ID: NEW, Assigned User IDs: 3,2
+[2025-07-12 21:14:28] File upload detected. Name: DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf, Size: 1996806
+[2025-07-12 21:14:28] File moved successfully to: uploads/forms/admin_form_6872b414c3813_DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf
+[2025-07-12 21:14:28] Task assigned to user ID 3 successfully.
+[2025-07-12 21:14:28] Email logged for user ID: 3
+[2025-07-12 21:14:28] Task assigned to user ID 2 successfully.
+[2025-07-12 21:14:28] Email logged for user ID: 2
+[2025-07-12 21:17:29] API Request Received: GET for resource users
+[2025-07-12 21:17:29] Fetched 7 users (search: )
+[2025-07-12 21:17:29] API Request Received: GET for resource tasks
+[2025-07-12 21:17:29] Fetched 8 tasks (search: )
+[2025-07-12 21:17:29] API Request Received: GET for resource users
+[2025-07-12 21:17:29] Fetched 7 users (search: )
+[2025-07-12 21:17:51] API Request Received: POST for resource tasks
+[2025-07-12 21:17:51] Raw POST data: Array
+(
+    [id] => 
+    [title] => Programming 4
+    [description] => thgyujj
+    [assigned_to_user_ids] => [2,3]
+    [deadline] => 2025-07-14
+    [status] => Pending
+)
+
+[2025-07-12 21:17:51] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf
+            [full_path] => DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpA22F.tmp
+            [error] => 0
+            [size] => 1996806
+        )
+
+)
+
+[2025-07-12 21:17:51] Task POST request. Task ID: NEW, Assigned User IDs: 2,3
+[2025-07-12 21:17:51] File upload detected. Name: DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf, Size: 1996806
+[2025-07-12 21:17:51] File moved successfully to: uploads/forms/admin_form_6872b4df8f463_DENNIS KIMATU KIOKO SELF DECLARATION FORM.pdf
+[2025-07-12 21:17:51] Task assigned to user ID 2 successfully.
+[2025-07-12 21:17:51] Email logged for user ID: 2
+[2025-07-12 21:17:51] Task assigned to user ID 3 successfully.
+[2025-07-12 21:17:51] Email logged for user ID: 3
+[2025-07-12 21:18:40] API Request Received: GET for resource users
+[2025-07-12 21:18:40] Fetched 7 users (search: )
+[2025-07-12 21:18:40] API Request Received: GET for resource users
+[2025-07-12 21:18:40] Fetched 7 users (search: )
+[2025-07-12 21:18:40] API Request Received: GET for resource tasks
+[2025-07-12 21:18:40] Fetched 10 tasks (search: )
+[2025-07-12 21:27:19] API Request Received: GET for resource tasks
+[2025-07-12 21:27:19] Fetched 10 tasks (search: )
+[2025-07-12 21:27:19] API Request Received: GET for resource users
+[2025-07-12 21:27:19] Fetched 7 users (search: )
+[2025-07-12 21:27:19] API Request Received: GET for resource users
+[2025-07-12 21:27:19] Fetched 7 users (search: )
+[2025-07-12 21:28:21] API Request Received: POST for resource tasks
+[2025-07-12 21:28:21] Raw POST data: Array
+(
+    [id] => 
+    [title] => Programming 4
+    [description] => thjuuj
+    [assigned_to_user_ids] => [2,3]
+    [deadline] => 2025-07-14
+    [status] => Pending
+)
+
+[2025-07-12 21:28:21] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+            [full_path] => Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php3D89.tmp
+            [error] => 0
+            [size] => 966864
+        )
+
+)
+
+[2025-07-12 21:28:21] Task POST request. Task ID: NEW, Assigned User IDs: 2,3
+[2025-07-12 21:28:21] File upload detected. Name: Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf, Size: 966864
+[2025-07-12 21:28:21] File moved successfully to: uploads/forms/admin_form_6872b755239a0_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 21:28:21] Task assigned to user ID 2 successfully.
+[2025-07-12 21:28:21] Email logged for user ID: 2
+[2025-07-12 21:28:21] Task assigned to user ID 3 successfully.
+[2025-07-12 21:28:21] Email logged for user ID: 3
+[2025-07-12 21:28:21] API Request Finished.
+[2025-07-12 21:31:01] API Request Received: GET for resource users
+[2025-07-12 21:31:01] Fetched 7 users (search: )
+[2025-07-12 21:31:01] API Request Received: GET for resource tasks
+[2025-07-12 21:31:01] Fetched 12 tasks (search: )
+[2025-07-12 21:31:01] API Request Received: GET for resource users
+[2025-07-12 21:31:01] Fetched 7 users (search: )
+[2025-07-12 21:31:50] API Request Received: POST for resource tasks
+[2025-07-12 21:31:50] Raw POST data: Array
+(
+    [id] => 
+    [title] => Programming 4
+    [description] => dffrtrgrtt
+    [assigned_to_user_ids] => [2,3,5]
+    [deadline] => 2025-07-14
+    [status] => Pending
+)
+
+[2025-07-12 21:31:50] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Government Compliance and Recommendation Letters.pdf
+            [full_path] => Government Compliance and Recommendation Letters.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php6E60.tmp
+            [error] => 0
+            [size] => 677427
+        )
+
+)
+
+[2025-07-12 21:31:50] Task POST request. Task ID: NEW, Assigned User IDs: 2,3,5
+[2025-07-12 21:31:50] File upload detected. Name: Government Compliance and Recommendation Letters.pdf, Size: 677427
+[2025-07-12 21:31:50] File moved successfully to: uploads/forms/admin_form_6872b826439c2_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 21:31:50] Task assigned to user ID 2 successfully.
+[2025-07-12 21:31:50] Email logged for user ID: 2
+[2025-07-12 21:31:50] Task assigned to user ID 3 successfully.
+[2025-07-12 21:31:50] Email logged for user ID: 3
+[2025-07-12 21:31:50] Task assigned to user ID 5 successfully.
+[2025-07-12 21:31:50] Email logged for user ID: 5
+[2025-07-12 21:31:50] API Request Finished.
+[2025-07-12 21:34:42] API Request Received: GET for resource users
+[2025-07-12 21:34:42] Fetched 7 users (search: )
+[2025-07-12 21:34:42] API Request Received: GET for resource tasks
+[2025-07-12 21:34:42] Fetched 15 tasks (search: )
+[2025-07-12 21:34:42] API Request Received: GET for resource users
+[2025-07-12 21:34:42] Fetched 7 users (search: )
+[2025-07-12 21:35:21] API Request Received: POST for resource tasks
+[2025-07-12 21:35:21] Raw POST data: Array
+(
+    [id] => 
+    [title] => Programming 4
+    [description] => thyjuukhggb
+    [assigned_to_user_ids] => [2,3,5]
+    [deadline] => 2025-07-14
+    [status] => Pending
+)
+
+[2025-07-12 21:35:21] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+            [full_path] => Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpA83F.tmp
+            [error] => 0
+            [size] => 966864
+        )
+
+)
+
+[2025-07-12 21:35:21] Task POST request. Task ID: NEW, Assigned User IDs: 2,3,5
+[2025-07-12 21:35:21] File upload detected. Name: Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf, Size: 966864
+[2025-07-12 21:35:21] File moved successfully to: uploads/forms/admin_form_6872b8f9a3630_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 21:35:21] Task assigned to user ID 2 successfully.
+[2025-07-12 21:35:21] Email logged for user ID: 2
+[2025-07-12 21:35:21] Task assigned to user ID 3 successfully.
+[2025-07-12 21:35:21] Email logged for user ID: 3
+[2025-07-12 21:35:21] Task assigned to user ID 5 successfully.
+[2025-07-12 21:35:21] Email logged for user ID: 5
+[2025-07-12 21:35:21] API Request Finished.
+[2025-07-12 21:35:21] API Request Received: GET for resource tasks
+[2025-07-12 21:35:21] Fetched 18 tasks (search: )
+[2025-07-12 21:38:21] API Request Received: POST for resource tasks
+[2025-07-12 21:38:21] Raw POST data: Array
+(
+    [id] => 
+    [title] => Optics
+    [description] => Optical Science
+    [assigned_to_user_ids] => [2,3,5,6]
+    [deadline] => 2025-07-13
+    [status] => Pending
+)
+
+[2025-07-12 21:38:21] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+            [full_path] => Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php6731.tmp
+            [error] => 0
+            [size] => 966864
+        )
+
+)
+
+[2025-07-12 21:38:21] Task POST request. Task ID: NEW, Assigned User IDs: 2,3,5,6
+[2025-07-12 21:38:21] File upload detected. Name: Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf, Size: 966864
+[2025-07-12 21:38:21] File moved successfully to: uploads/forms/admin_form_6872b9ada5c80_Dennis Kimatu Kioko Transcripts Other Academic Certificates 2.pdf
+[2025-07-12 21:38:21] Task assigned to user ID 2 successfully.
+[2025-07-12 21:38:21] Email logged for user ID: 2
+[2025-07-12 21:38:21] Task assigned to user ID 3 successfully.
+[2025-07-12 21:38:21] Email logged for user ID: 3
+[2025-07-12 21:38:21] Task assigned to user ID 5 successfully.
+[2025-07-12 21:38:21] Email logged for user ID: 5
+[2025-07-12 21:38:21] Task assigned to user ID 6 successfully.
+[2025-07-12 21:38:21] Email logged for user ID: 6
+[2025-07-12 21:38:21] API Request Finished.
+[2025-07-12 21:38:21] API Request Received: GET for resource tasks
+[2025-07-12 21:38:21] Fetched 22 tasks (search: )
+[2025-07-12 21:38:57] API Request Received: GET for resource users
+[2025-07-12 21:38:57] Fetched 7 users (search: )
+[2025-07-12 21:38:57] API Request Received: GET for resource tasks
+[2025-07-12 21:38:57] Fetched 22 tasks (search: )
+[2025-07-12 21:38:57] API Request Received: GET for resource users
+[2025-07-12 21:38:57] Fetched 7 users (search: )
+[2025-07-12 21:52:12] API Request Received: GET for resource users
+[2025-07-12 21:52:12] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:12] API Request Received: GET for resource tasks
+[2025-07-12 21:52:12] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:52:12] API Request Received: GET for resource users
+[2025-07-12 21:52:12] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:12] API Request Received: GET for resource users
+[2025-07-12 21:52:12] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:12] API Request Received: GET for resource tasks
+[2025-07-12 21:52:12] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:52:12] API Request Received: GET for resource users
+[2025-07-12 21:52:12] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:22] API Request Received: GET for resource users
+[2025-07-12 21:52:22] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:23] API Request Received: GET for resource users
+[2025-07-12 21:52:23] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:23] API Request Received: GET for resource tasks
+[2025-07-12 21:52:23] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:52:23] API Request Received: GET for resource users
+[2025-07-12 21:52:23] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:23] API Request Received: GET for resource users
+[2025-07-12 21:52:23] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:23] API Request Received: GET for resource tasks
+[2025-07-12 21:52:23] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:52:35] API Request Received: GET for resource tasks
+[2025-07-12 21:52:35] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:52:35] API Request Received: GET for resource users
+[2025-07-12 21:52:35] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:35] API Request Received: GET for resource users
+[2025-07-12 21:52:35] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:35] API Request Received: GET for resource tasks
+[2025-07-12 21:52:35] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:52:35] API Request Received: GET for resource users
+[2025-07-12 21:52:35] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:52:35] API Request Received: GET for resource users
+[2025-07-12 21:52:35] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:54:52] API Request Received: GET for resource tasks
+[2025-07-12 21:54:52] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:54:52] API Request Received: GET for resource users
+[2025-07-12 21:54:52] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:54:52] API Request Received: GET for resource users
+[2025-07-12 21:54:52] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:54:52] API Request Received: GET for resource users
+[2025-07-12 21:54:52] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:55:18] API Request Received: GET for resource users
+[2025-07-12 21:55:18] Fetched 2 users (search: , page: 2)
+[2025-07-12 21:55:21] API Request Received: GET for resource users
+[2025-07-12 21:55:21] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:55:33] API Request Received: GET for resource tasks
+[2025-07-12 21:55:33] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:56:06] API Request Received: GET for resource users
+[2025-07-12 21:56:06] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:56:09] API Request Received: GET for resource users
+[2025-07-12 21:56:09] Fetched 2 users (search: , page: 2)
+[2025-07-12 21:56:18] API Request Received: DELETE for resource users
+[2025-07-12 21:56:18] User DELETE request. User ID: 7
+[2025-07-12 21:56:18] User deleted successfully. ID: 7
+[2025-07-12 21:56:18] API Request Finished.
+[2025-07-12 21:56:18] API Request Received: GET for resource users
+[2025-07-12 21:56:18] Fetched 1 users (search: , page: 2)
+[2025-07-12 21:56:18] API Request Received: GET for resource users
+[2025-07-12 21:56:18] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:56:18] API Request Received: GET for resource tasks
+[2025-07-12 21:56:18] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:56:21] API Request Received: DELETE for resource users
+[2025-07-12 21:56:21] User DELETE request. User ID: 6
+[2025-07-12 21:56:21] User deleted successfully. ID: 6
+[2025-07-12 21:56:21] API Request Finished.
+[2025-07-12 21:56:21] API Request Received: GET for resource users
+[2025-07-12 21:56:21] Fetched 0 users (search: , page: 2)
+[2025-07-12 21:56:21] API Request Received: GET for resource tasks
+[2025-07-12 21:56:21] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:56:21] API Request Received: GET for resource users
+[2025-07-12 21:56:21] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:56:27] API Request Received: GET for resource users
+[2025-07-12 21:56:27] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:56:43] API Request Received: POST for resource users
+[2025-07-12 21:56:43] User added successfully. ID: 8
+[2025-07-12 21:56:43] API Request Finished.
+[2025-07-12 21:56:43] API Request Received: GET for resource users
+[2025-07-12 21:56:43] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:56:43] API Request Received: GET for resource users
+[2025-07-12 21:56:43] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:56:49] API Request Received: GET for resource users
+[2025-07-12 21:56:49] Fetched 1 users (search: , page: 2)
+[2025-07-12 21:56:51] API Request Received: GET for resource tasks
+[2025-07-12 21:56:51] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:57:14] API Request Received: GET for resource tasks
+[2025-07-12 21:57:14] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:59:46] API Request Received: GET for resource users
+[2025-07-12 21:59:46] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:59:46] API Request Received: GET for resource tasks
+[2025-07-12 21:59:46] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 21:59:46] API Request Received: GET for resource users
+[2025-07-12 21:59:46] Fetched 6 users (search: , page: 1)
+[2025-07-12 21:59:47] API Request Received: GET for resource users
+[2025-07-12 21:59:47] Fetched 5 users (search: , page: 1)
+[2025-07-12 21:59:51] API Request Received: GET for resource tasks
+[2025-07-12 21:59:51] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:00:27] API Request Received: GET for resource users
+[2025-07-12 22:00:27] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:01:03] API Request Received: GET for resource tasks
+[2025-07-12 22:01:03] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:02:44] API Request Received: GET for resource users
+[2025-07-12 22:02:44] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:02:44] API Request Received: GET for resource users
+[2025-07-12 22:02:44] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:02:44] API Request Received: GET for resource tasks
+[2025-07-12 22:02:44] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:02:44] API Request Received: GET for resource users
+[2025-07-12 22:02:44] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:02:47] API Request Received: GET for resource tasks
+[2025-07-12 22:02:47] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:02:57] API Request Received: GET for resource tasks
+[2025-07-12 22:02:57] Fetched 5 tasks (search: , page: 2)
+[2025-07-12 22:02:58] API Request Received: GET for resource tasks
+[2025-07-12 22:02:58] Fetched 5 tasks (search: , page: 3)
+[2025-07-12 22:02:58] API Request Received: GET for resource tasks
+[2025-07-12 22:02:58] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:10:30] API Request Received: GET for resource users
+[2025-07-12 22:10:30] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:10:30] API Request Received: GET for resource users
+[2025-07-12 22:10:30] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:10:30] API Request Received: GET for resource tasks
+[2025-07-12 22:10:30] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:10:30] API Request Received: GET for resource users
+[2025-07-12 22:10:30] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:10:33] API Request Received: GET for resource tasks
+[2025-07-12 22:10:33] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:11:38] API Request Received: POST for resource tasks
+[2025-07-12 22:11:38] Raw POST data: Array
+(
+    [id] => 
+    [title] => New Project
+    [description] => This is a new project.
+    [assigned_to_user_ids] => [2,3,5,8]
+    [deadline] => 2025-07-15
+    [status] => Pending
+)
+
+[2025-07-12 22:11:38] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Government Compliance and Recommendation Letters.pdf
+            [full_path] => Government Compliance and Recommendation Letters.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpE132.tmp
+            [error] => 0
+            [size] => 677427
+        )
+
+)
+
+[2025-07-12 22:11:38] Task POST request. Task ID: NEW, Assigned User IDs: 2,3,5,8
+[2025-07-12 22:11:38] File upload detected. Name: Government Compliance and Recommendation Letters.pdf, Size: 677427
+[2025-07-12 22:11:38] File moved successfully to: uploads/forms/admin_form_6872c17ae3015_Government Compliance and Recommendation Letters.pdf
+[2025-07-12 22:11:38] Task assigned to user ID 2 successfully.
+[2025-07-12 22:11:39] Email logged for user ID: 2
+[2025-07-12 22:11:39] Task assigned to user ID 3 successfully.
+[2025-07-12 22:11:39] Email logged for user ID: 3
+[2025-07-12 22:11:39] Task assigned to user ID 5 successfully.
+[2025-07-12 22:11:39] Email logged for user ID: 5
+[2025-07-12 22:11:39] Task assigned to user ID 8 successfully.
+[2025-07-12 22:11:39] Email logged for user ID: 8
+[2025-07-12 22:11:39] API Request Finished.
+[2025-07-12 22:11:39] API Request Received: GET for resource tasks
+[2025-07-12 22:11:39] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:11:47] API Request Received: GET for resource tasks
+[2025-07-12 22:11:47] Fetched 5 tasks (search: , page: 2)
+[2025-07-12 22:11:47] API Request Received: GET for resource tasks
+[2025-07-12 22:11:47] Fetched 5 tasks (search: , page: 3)
+[2025-07-12 22:11:48] API Request Received: GET for resource tasks
+[2025-07-12 22:11:48] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:11:48] API Request Received: GET for resource tasks
+[2025-07-12 22:11:48] Fetched 4 tasks (search: , page: 5)
+[2025-07-12 22:11:54] API Request Received: GET for resource tasks
+[2025-07-12 22:11:54] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:12:00] API Request Received: GET for resource tasks
+[2025-07-12 22:12:00] Fetched 5 tasks (search: , page: 3)
+[2025-07-12 22:12:01] API Request Received: GET for resource tasks
+[2025-07-12 22:12:01] Fetched 5 tasks (search: , page: 2)
+[2025-07-12 22:12:02] API Request Received: GET for resource tasks
+[2025-07-12 22:12:02] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:14:58] API Request Received: GET for resource users
+[2025-07-12 22:14:58] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:14:58] API Request Received: GET for resource users
+[2025-07-12 22:14:58] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:14:58] API Request Received: GET for resource tasks
+[2025-07-12 22:14:58] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:14:58] API Request Received: GET for resource users
+[2025-07-12 22:14:58] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:15:20] API Request Received: GET for resource tasks
+[2025-07-12 22:15:20] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:23:10] API Request Received: GET for resource users
+[2025-07-12 22:23:10] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:23:10] API Request Received: GET for resource users
+[2025-07-12 22:23:10] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:23:10] API Request Received: GET for resource tasks
+[2025-07-12 22:23:10] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:23:10] API Request Received: GET for resource users
+[2025-07-12 22:23:10] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:23:15] API Request Received: GET for resource tasks
+[2025-07-12 22:23:15] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:23:25] API Request Received: GET for resource users
+[2025-07-12 22:23:25] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:23:25] API Request Received: GET for resource tasks
+[2025-07-12 22:23:25] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:23:25] API Request Received: GET for resource users
+[2025-07-12 22:23:25] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:23:25] API Request Received: GET for resource users
+[2025-07-12 22:23:25] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:23:29] API Request Received: GET for resource tasks
+[2025-07-12 22:23:29] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:25:02] API Request Received: GET for resource users
+[2025-07-12 22:25:02] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:25:02] API Request Received: GET for resource tasks
+[2025-07-12 22:25:02] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:25:02] API Request Received: GET for resource users
+[2025-07-12 22:25:02] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:25:02] API Request Received: GET for resource users
+[2025-07-12 22:25:02] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:25:09] API Request Received: GET for resource tasks
+[2025-07-12 22:25:09] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:25:20] API Request Received: GET for resource users
+[2025-07-12 22:25:20] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:25:23] API Request Received: GET for resource tasks
+[2025-07-12 22:25:23] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:27:09] API Request Received: GET for resource users
+[2025-07-12 22:27:09] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:27:09] API Request Received: GET for resource users
+[2025-07-12 22:27:09] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:27:09] API Request Received: GET for resource tasks
+[2025-07-12 22:27:09] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:27:09] API Request Received: GET for resource users
+[2025-07-12 22:27:09] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:27:11] API Request Received: GET for resource tasks
+[2025-07-12 22:27:11] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:27:20] API Request Received: GET for resource users
+[2025-07-12 22:27:20] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:27:20] API Request Received: GET for resource tasks
+[2025-07-12 22:27:20] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:27:20] API Request Received: GET for resource users
+[2025-07-12 22:27:20] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:27:20] API Request Received: GET for resource users
+[2025-07-12 22:27:20] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:27:29] API Request Received: GET for resource tasks
+[2025-07-12 22:27:29] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:31:07] API Request Received: GET for resource users
+[2025-07-12 22:31:07] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:31:07] API Request Received: GET for resource users
+[2025-07-12 22:31:07] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:31:07] API Request Received: GET for resource tasks
+[2025-07-12 22:31:08] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:31:08] API Request Received: GET for resource users
+[2025-07-12 22:31:08] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:31:11] API Request Received: GET for resource tasks
+[2025-07-12 22:31:11] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:32:06] API Request Received: GET for resource users
+[2025-07-12 22:32:06] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:32:11] API Request Received: GET for resource tasks
+[2025-07-12 22:32:11] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:34:03] API Request Received: GET for resource users
+[2025-07-12 22:34:03] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:34:03] API Request Received: GET for resource users
+[2025-07-12 22:34:03] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:34:03] API Request Received: GET for resource tasks
+[2025-07-12 22:34:03] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:34:03] API Request Received: GET for resource users
+[2025-07-12 22:34:03] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:34:06] API Request Received: GET for resource tasks
+[2025-07-12 22:34:06] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:34:17] API Request Received: GET for resource users
+[2025-07-12 22:34:17] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:34:23] API Request Received: GET for resource tasks
+[2025-07-12 22:34:23] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:34:54] API Request Received: GET for resource tasks
+[2025-07-12 22:34:54] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:34:54] API Request Received: GET for resource users
+[2025-07-12 22:34:54] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:34:54] API Request Received: GET for resource users
+[2025-07-12 22:34:54] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:34:54] API Request Received: GET for resource users
+[2025-07-12 22:34:54] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:35:04] API Request Received: GET for resource tasks
+[2025-07-12 22:35:04] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:37:57] API Request Received: GET for resource users
+[2025-07-12 22:37:57] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:37:57] API Request Received: GET for resource tasks
+[2025-07-12 22:37:57] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:37:57] API Request Received: GET for resource users
+[2025-07-12 22:37:57] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:37:57] API Request Received: GET for resource users
+[2025-07-12 22:37:57] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:37:58] API Request Received: GET for resource tasks
+[2025-07-12 22:37:58] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:38:11] API Request Received: GET for resource users
+[2025-07-12 22:38:11] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:38:15] API Request Received: GET for resource tasks
+[2025-07-12 22:38:15] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:39:33] API Request Received: GET for resource users
+[2025-07-12 22:39:33] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:39:33] API Request Received: GET for resource tasks
+[2025-07-12 22:39:33] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:39:33] API Request Received: GET for resource users
+[2025-07-12 22:39:33] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:39:33] API Request Received: GET for resource users
+[2025-07-12 22:39:33] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:39:34] API Request Received: GET for resource tasks
+[2025-07-12 22:39:34] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:42:05] API Request Received: GET for resource users
+[2025-07-12 22:42:05] Fetched 6 users (search: , page: 1)
+[2025-07-12 22:42:06] API Request Received: GET for resource users
+[2025-07-12 22:42:06] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:42:06] API Request Received: GET for resource tasks
+[2025-07-12 22:42:06] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:42:06] API Request Received: GET for resource users
+[2025-07-12 22:42:06] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:42:08] API Request Received: GET for resource tasks
+[2025-07-12 22:42:08] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:48:09] API Request Received: GET for resource users
+[2025-07-12 22:48:09] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:48:34] API Request Received: POST for resource users
+[2025-07-12 22:48:34] User added successfully. ID: 9
+[2025-07-12 22:48:34] API Request Finished.
+[2025-07-12 22:48:34] API Request Received: GET for resource users
+[2025-07-12 22:48:34] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:48:34] API Request Received: GET for resource users
+[2025-07-12 22:48:34] Fetched 7 users (search: , page: 1)
+[2025-07-12 22:48:42] API Request Received: GET for resource tasks
+[2025-07-12 22:48:42] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:48:45] API Request Received: GET for resource tasks
+[2025-07-12 22:48:45] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:48:51] API Request Received: GET for resource tasks
+[2025-07-12 22:48:51] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:48:59] API Request Received: GET for resource tasks
+[2025-07-12 22:48:59] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:00] API Request Received: GET for resource tasks
+[2025-07-12 22:49:00] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:03] API Request Received: GET for resource users
+[2025-07-12 22:49:03] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:49:03] API Request Received: GET for resource users
+[2025-07-12 22:49:03] Fetched 7 users (search: , page: 1)
+[2025-07-12 22:49:04] API Request Received: GET for resource tasks
+[2025-07-12 22:49:04] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:04] API Request Received: GET for resource users
+[2025-07-12 22:49:04] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:49:06] API Request Received: GET for resource tasks
+[2025-07-12 22:49:06] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:06] API Request Received: GET for resource tasks
+[2025-07-12 22:49:06] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:07] API Request Received: GET for resource tasks
+[2025-07-12 22:49:07] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:07] API Request Received: GET for resource tasks
+[2025-07-12 22:49:07] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:09] API Request Received: GET for resource tasks
+[2025-07-12 22:49:09] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:49:11] API Request Received: GET for resource tasks
+[2025-07-12 22:49:11] Fetched 5 tasks (search: , page: 2)
+[2025-07-12 22:49:12] API Request Received: GET for resource tasks
+[2025-07-12 22:49:12] Fetched 5 tasks (search: , page: 3)
+[2025-07-12 22:49:12] API Request Received: GET for resource tasks
+[2025-07-12 22:49:12] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:49:12] API Request Received: GET for resource tasks
+[2025-07-12 22:49:12] Fetched 4 tasks (search: , page: 5)
+[2025-07-12 22:49:15] API Request Received: GET for resource users
+[2025-07-12 22:49:15] Fetched 0 users (search: , page: 5)
+[2025-07-12 22:49:19] API Request Received: GET for resource users
+[2025-07-12 22:49:19] Fetched 0 users (search: , page: 4)
+[2025-07-12 22:49:20] API Request Received: GET for resource users
+[2025-07-12 22:49:20] Fetched 0 users (search: , page: 3)
+[2025-07-12 22:49:20] API Request Received: GET for resource users
+[2025-07-12 22:49:20] Fetched 2 users (search: , page: 2)
+[2025-07-12 22:49:23] API Request Received: GET for resource users
+[2025-07-12 22:49:23] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:49:25] API Request Received: GET for resource tasks
+[2025-07-12 22:49:25] Fetched 4 tasks (search: , page: 5)
+[2025-07-12 22:49:38] API Request Received: GET for resource tasks
+[2025-07-12 22:49:38] Fetched 4 tasks (search: , page: 5)
+[2025-07-12 22:49:41] API Request Received: GET for resource tasks
+[2025-07-12 22:49:41] Fetched 4 tasks (search: , page: 5)
+[2025-07-12 22:49:44] API Request Received: GET for resource tasks
+[2025-07-12 22:49:44] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:49:48] API Request Received: GET for resource users
+[2025-07-12 22:49:48] Fetched 0 users (search: , page: 3)
+[2025-07-12 22:49:50] API Request Received: GET for resource users
+[2025-07-12 22:49:50] Fetched 2 users (search: , page: 2)
+[2025-07-12 22:49:53] API Request Received: GET for resource users
+[2025-07-12 22:49:53] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:52:27] API Request Received: GET for resource tasks
+[2025-07-12 22:52:27] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:52:27] API Request Received: GET for resource users
+[2025-07-12 22:52:27] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:52:27] API Request Received: GET for resource users
+[2025-07-12 22:52:27] Fetched 7 users (search: , page: 1)
+[2025-07-12 22:52:27] API Request Received: GET for resource users
+[2025-07-12 22:52:27] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:52:30] API Request Received: GET for resource tasks
+[2025-07-12 22:52:30] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:52:32] API Request Received: GET for resource tasks
+[2025-07-12 22:52:32] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:52:35] API Request Received: GET for resource tasks
+[2025-07-12 22:52:35] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:52:38] API Request Received: GET for resource tasks
+[2025-07-12 22:52:38] Fetched 5 tasks (search: , page: 2)
+[2025-07-12 22:52:39] API Request Received: GET for resource tasks
+[2025-07-12 22:52:39] Fetched 5 tasks (search: , page: 3)
+[2025-07-12 22:52:39] API Request Received: GET for resource tasks
+[2025-07-12 22:52:39] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:52:41] API Request Received: GET for resource users
+[2025-07-12 22:52:41] Fetched 0 users (search: , page: 3)
+[2025-07-12 22:52:43] API Request Received: GET for resource users
+[2025-07-12 22:52:43] Fetched 2 users (search: , page: 2)
+[2025-07-12 22:52:45] API Request Received: GET for resource users
+[2025-07-12 22:52:45] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:52:46] API Request Received: GET for resource tasks
+[2025-07-12 22:52:46] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 22:54:51] API Request Received: GET for resource tasks
+[2025-07-12 22:54:51] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:54:51] API Request Received: GET for resource users
+[2025-07-12 22:54:51] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:54:51] API Request Received: GET for resource users
+[2025-07-12 22:54:51] Fetched 7 users (search: , page: 1)
+[2025-07-12 22:54:52] API Request Received: GET for resource users
+[2025-07-12 22:54:52] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:54:53] API Request Received: GET for resource users
+[2025-07-12 22:54:53] Fetched 2 users (search: , page: 2)
+[2025-07-12 22:54:57] API Request Received: GET for resource users
+[2025-07-12 22:54:57] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:55:00] API Request Received: GET for resource users
+[2025-07-12 22:55:00] Fetched 2 users (search: , page: 2)
+[2025-07-12 22:55:02] API Request Received: GET for resource users
+[2025-07-12 22:55:02] Fetched 5 users (search: , page: 1)
+[2025-07-12 22:55:05] API Request Received: GET for resource tasks
+[2025-07-12 22:55:05] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 22:55:33] API Request Received: GET for resource users
+[2025-07-12 22:55:33] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:05:51] API Request Received: GET for resource users
+[2025-07-12 23:05:51] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:05:52] API Request Received: GET for resource tasks
+[2025-07-12 23:05:52] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 23:05:52] API Request Received: GET for resource users
+[2025-07-12 23:05:52] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:05:52] API Request Received: GET for resource users
+[2025-07-12 23:05:52] Fetched 7 users (search: , page: 1)
+[2025-07-12 23:05:58] API Request Received: GET for resource tasks
+[2025-07-12 23:05:58] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 23:21:02] API Request Received: GET for resource users
+[2025-07-12 23:21:02] Fetched 7 users (search: , page: 1)
+[2025-07-12 23:21:02] API Request Received: GET for resource users
+[2025-07-12 23:21:02] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:21:02] API Request Received: GET for resource tasks
+[2025-07-12 23:21:02] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 23:21:02] API Request Received: GET for resource users
+[2025-07-12 23:21:02] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:21:08] API Request Received: GET for resource tasks
+[2025-07-12 23:21:08] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 23:21:10] API Request Received: GET for resource tasks
+[2025-07-12 23:21:10] Fetched 5 tasks (search: , page: 2)
+[2025-07-12 23:21:11] API Request Received: GET for resource tasks
+[2025-07-12 23:21:11] Fetched 5 tasks (search: , page: 3)
+[2025-07-12 23:21:12] API Request Received: GET for resource tasks
+[2025-07-12 23:21:12] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 23:23:22] API Request Received: GET for resource users
+[2025-07-12 23:23:22] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:23:26] API Request Received: GET for resource tasks
+[2025-07-12 23:23:26] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 23:23:28] API Request Received: GET for resource users
+[2025-07-12 23:23:28] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:23:30] API Request Received: GET for resource tasks
+[2025-07-12 23:23:30] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 23:24:10] API Request Received: GET for resource users
+[2025-07-12 23:24:10] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:24:13] API Request Received: GET for resource tasks
+[2025-07-12 23:24:13] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 23:24:18] API Request Received: GET for resource users
+[2025-07-12 23:24:18] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:24:20] API Request Received: GET for resource tasks
+[2025-07-12 23:24:20] Fetched 5 tasks (search: , page: 4)
+[2025-07-12 23:29:50] API Request Received: GET for resource users
+[2025-07-12 23:29:50] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:29:50] API Request Received: GET for resource users
+[2025-07-12 23:29:50] Fetched 7 users (search: , page: 1)
+[2025-07-12 23:29:50] API Request Received: GET for resource tasks
+[2025-07-12 23:29:50] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 23:29:50] API Request Received: GET for resource users
+[2025-07-12 23:29:50] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:29:54] API Request Received: GET for resource tasks
+[2025-07-12 23:29:54] Fetched 5 tasks (search: , page: 1)
+[2025-07-12 23:29:59] API Request Received: GET for resource users
+[2025-07-12 23:29:59] Fetched 5 users (search: , page: 1)
+[2025-07-12 23:30:02] API Request Received: GET for resource tasks
+[2025-07-12 23:30:02] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 07:04:38] API Request Received: GET for resource users
+[2025-07-13 07:04:38] Fetched 5 users (search: , page: 1)
+[2025-07-13 07:04:38] API Request Received: GET for resource tasks
+[2025-07-13 07:04:38] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 07:04:38] API Request Received: GET for resource users
+[2025-07-13 07:04:38] Fetched 7 users (search: , page: 1)
+[2025-07-13 07:04:38] API Request Received: GET for resource users
+[2025-07-13 07:04:38] Fetched 5 users (search: , page: 1)
+[2025-07-13 07:04:50] API Request Received: GET for resource users
+[2025-07-13 07:04:50] Fetched 2 users (search: , page: 2)
+[2025-07-13 07:04:53] API Request Received: GET for resource users
+[2025-07-13 07:04:53] Fetched 5 users (search: , page: 1)
+[2025-07-13 07:05:03] API Request Received: GET for resource tasks
+[2025-07-13 07:05:03] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 07:06:06] API Request Received: GET for resource users
+[2025-07-13 07:06:06] Fetched 5 users (search: , page: 1)
+[2025-07-13 07:06:57] API Request Received: GET for resource tasks
+[2025-07-13 07:06:57] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 07:07:14] API Request Received: GET for resource users
+[2025-07-13 07:07:14] Fetched 5 users (search: , page: 1)
+[2025-07-13 07:07:18] API Request Received: GET for resource tasks
+[2025-07-13 07:07:18] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 09:48:03] API Request Received: GET for resource tasks
+[2025-07-13 09:48:03] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 09:48:03] API Request Received: GET for resource users
+[2025-07-13 09:48:03] Fetched 7 users (search: , page: 1)
+[2025-07-13 09:48:03] API Request Received: GET for resource users
+[2025-07-13 09:48:03] Fetched 5 users (search: , page: 1)
+[2025-07-13 09:48:03] API Request Received: GET for resource users
+[2025-07-13 09:48:03] Fetched 5 users (search: , page: 1)
+[2025-07-13 09:48:37] API Request Received: GET for resource tasks
+[2025-07-13 09:48:37] Fetched 5 tasks (search: , page: 1)
+[2025-07-13 09:48:46] API Request Received: GET for resource tasks
+[2025-07-13 09:48:46] Fetched 5 tasks (search: , page: 2)
+[2025-07-13 09:48:48] API Request Received: GET for resource tasks
+[2025-07-13 09:48:48] Fetched 5 tasks (search: , page: 3)
+[2025-07-13 09:48:49] API Request Received: GET for resource tasks
+[2025-07-13 09:48:49] Fetched 5 tasks (search: , page: 4)
+[2025-07-13 09:48:56] API Request Received: GET for resource tasks
+[2025-07-13 09:48:56] Fetched 4 tasks (search: , page: 5)
+[2025-07-14 17:04:33] API Request Received: GET for resource users
+[2025-07-14 17:04:33] Fetched 7 users (search: , page: 1)
+[2025-07-14 17:04:33] API Request Received: GET for resource users
+[2025-07-14 17:04:33] Fetched 5 users (search: , page: 1)
+[2025-07-14 17:04:33] API Request Received: GET for resource tasks
+[2025-07-14 17:04:33] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 17:04:33] API Request Received: GET for resource users
+[2025-07-14 17:04:33] Fetched 5 users (search: , page: 1)
+[2025-07-14 17:04:57] API Request Received: GET for resource tasks
+[2025-07-14 17:04:57] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 17:05:25] API Request Received: GET for resource tasks
+[2025-07-14 17:05:25] Fetched 5 tasks (search: c, page: 1)
+[2025-07-14 17:05:25] API Request Received: GET for resource tasks
+[2025-07-14 17:05:25] Fetched 2 tasks (search: ce, page: 1)
+[2025-07-14 17:05:26] API Request Received: GET for resource tasks
+[2025-07-14 17:05:26] Fetched 2 tasks (search: cen, page: 1)
+[2025-07-14 17:05:26] API Request Received: GET for resource tasks
+[2025-07-14 17:05:26] Fetched 0 tasks (search: ceny, page: 1)
+[2025-07-14 17:05:27] API Request Received: GET for resource tasks
+[2025-07-14 17:05:27] Fetched 2 tasks (search: cen, page: 1)
+[2025-07-14 17:05:27] API Request Received: GET for resource tasks
+[2025-07-14 17:05:27] Fetched 2 tasks (search: cent, page: 1)
+[2025-07-14 17:05:27] API Request Received: GET for resource tasks
+[2025-07-14 17:05:27] Fetched 2 tasks (search: centr, page: 1)
+[2025-07-14 17:05:38] API Request Received: GET for resource tasks
+[2025-07-14 17:05:38] Fetched 2 tasks (search: cent, page: 1)
+[2025-07-14 17:05:38] API Request Received: GET for resource tasks
+[2025-07-14 17:05:38] Fetched 2 tasks (search: cen, page: 1)
+[2025-07-14 17:05:38] API Request Received: GET for resource tasks
+[2025-07-14 17:05:38] Fetched 2 tasks (search: ce, page: 1)
+[2025-07-14 17:05:38] API Request Received: GET for resource tasks
+[2025-07-14 17:05:38] Fetched 5 tasks (search: c, page: 1)
+[2025-07-14 17:05:38] API Request Received: GET for resource tasks
+[2025-07-14 17:05:38] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 17:05:39] API Request Received: GET for resource tasks
+[2025-07-14 17:05:39] Fetched 5 tasks (search: p, page: 1)
+[2025-07-14 17:05:41] API Request Received: GET for resource tasks
+[2025-07-14 17:05:41] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 17:05:57] API Request Received: GET for resource tasks
+[2025-07-14 17:05:57] Fetched 5 tasks (search: , page: 2)
+[2025-07-14 17:05:58] API Request Received: GET for resource tasks
+[2025-07-14 17:05:58] Fetched 5 tasks (search: , page: 3)
+[2025-07-14 17:05:59] API Request Received: GET for resource tasks
+[2025-07-14 17:05:59] Fetched 5 tasks (search: , page: 4)
+[2025-07-14 17:06:00] API Request Received: GET for resource tasks
+[2025-07-14 17:06:00] Fetched 4 tasks (search: , page: 5)
+[2025-07-14 17:06:02] API Request Received: GET for resource tasks
+[2025-07-14 17:06:02] Fetched 5 tasks (search: , page: 4)
+[2025-07-14 17:06:05] API Request Received: GET for resource tasks
+[2025-07-14 17:06:05] Fetched 5 tasks (search: , page: 3)
+[2025-07-14 17:06:05] API Request Received: GET for resource tasks
+[2025-07-14 17:06:05] Fetched 5 tasks (search: , page: 2)
+[2025-07-14 17:06:06] API Request Received: GET for resource tasks
+[2025-07-14 17:06:06] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 17:19:01] API Request Received: GET for resource users
+[2025-07-14 17:19:01] Fetched 5 users (search: , page: 1)
+[2025-07-14 17:20:57] API Request Received: GET for resource tasks
+[2025-07-14 17:20:57] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 19:10:01] API Request Received: GET for resource users
+[2025-07-14 19:10:01] Fetched 7 users (search: , page: 1)
+[2025-07-14 19:10:01] API Request Received: GET for resource users
+[2025-07-14 19:10:01] Fetched 5 users (search: , page: 1)
+[2025-07-14 19:10:01] API Request Received: GET for resource tasks
+[2025-07-14 19:10:01] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 19:10:01] API Request Received: GET for resource users
+[2025-07-14 19:10:01] Fetched 5 users (search: , page: 1)
+[2025-07-14 19:10:03] API Request Received: GET for resource tasks
+[2025-07-14 19:10:03] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 19:17:38] API Request Received: GET for resource users
+[2025-07-14 19:17:38] Fetched 5 users (search: , page: 1)
+[2025-07-14 19:17:38] API Request Received: GET for resource tasks
+[2025-07-14 19:17:38] Fetched 5 tasks (search: , page: 1)
+[2025-07-14 19:17:38] API Request Received: GET for resource users
+[2025-07-14 19:17:38] Fetched 7 users (search: , page: 1)
+[2025-07-14 19:17:38] API Request Received: GET for resource users
+[2025-07-14 19:17:38] Fetched 5 users (search: , page: 1)
+[2025-07-14 19:44:42] API Request Received: GET for resource tasks
+[2025-07-14 19:44:42] Fetched 5 tasks (search: , page: 1)
+[2025-07-15 00:15:31] API Request Received: GET for resource users
+[2025-07-15 00:15:31] Fetched 5 users (search: , page: 1)
+[2025-07-16 15:40:11] API Request Received: GET for resource tasks
+[2025-07-16 15:40:11] Fetched 5 tasks (search: , page: 1)
+[2025-07-16 15:40:16] API Request Received: GET for resource users
+[2025-07-16 15:40:16] Fetched 5 users (search: , page: 1)
+[2025-07-16 15:40:18] API Request Received: GET for resource tasks
+[2025-07-16 15:40:18] Fetched 5 tasks (search: , page: 1)
+[2025-08-13 13:22:51] API Request Received: GET for resource users
+[2025-08-13 13:22:51] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:22:51] API Request Received: GET for resource users
+[2025-08-13 13:22:51] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:22:51] API Request Received: GET for resource tasks
+[2025-08-13 13:22:51] Fetched 0 tasks (search: , page: 1)
+[2025-08-13 13:22:51] API Request Received: GET for resource users
+[2025-08-13 13:22:51] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:23:03] API Request Received: GET for resource tasks
+[2025-08-13 13:23:03] Fetched 0 tasks (search: , page: 1)
+[2025-08-13 13:23:12] API Request Received: GET for resource users
+[2025-08-13 13:23:12] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:23:37] API Request Received: POST for resource users
+[2025-08-13 13:29:05] API Request Received: GET for resource users
+[2025-08-13 13:29:05] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:29:05] API Request Received: GET for resource users
+[2025-08-13 13:29:05] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:29:05] API Request Received: GET for resource users
+[2025-08-13 13:29:05] Fetched 1 users (search: , page: 1)
+[2025-08-13 13:29:05] API Request Received: GET for resource tasks
+[2025-08-13 13:29:05] Fetched 0 tasks (search: , page: 1)
+[2025-08-13 13:29:23] API Request Received: POST for resource users
+[2025-08-13 13:29:23] User added successfully. ID: 2
+[2025-08-13 13:29:23] API Request Finished.
+[2025-08-13 13:29:23] API Request Received: GET for resource users
+[2025-08-13 13:29:23] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:29:23] API Request Received: GET for resource users
+[2025-08-13 13:29:23] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:29:36] API Request Received: GET for resource tasks
+[2025-08-13 13:29:36] Fetched 0 tasks (search: , page: 1)
+[2025-08-13 13:30:06] API Request Received: GET for resource users
+[2025-08-13 13:30:06] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:30:06] API Request Received: GET for resource users
+[2025-08-13 13:30:06] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:30:06] API Request Received: GET for resource tasks
+[2025-08-13 13:30:06] Fetched 0 tasks (search: , page: 1)
+[2025-08-13 13:30:07] API Request Received: GET for resource users
+[2025-08-13 13:30:07] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:30:09] API Request Received: GET for resource tasks
+[2025-08-13 13:30:09] Fetched 0 tasks (search: , page: 1)
+[2025-08-13 13:30:48] API Request Received: POST for resource tasks
+[2025-08-13 13:30:48] Raw POST data: Array
+(
+    [id] => 
+    [title] => Project
+    [description] => This is my current project
+    [assigned_to_user_ids] => [2]
+    [deadline] => 2025-08-14
+    [status] => Pending
+)
+
+[2025-08-13 13:30:48] Raw FILES data: Array
+(
+    [form_file] => Array
+        (
+            [name] => Task Management System Documentation.txt
+            [full_path] => Task Management System Documentation.txt
+            [type] => text/plain
+            [tmp_name] => C:\xampp\tmp\php5800.tmp
+            [error] => 0
+            [size] => 10869
+        )
+
+)
+
+[2025-08-13 13:30:48] Task POST request. Task ID: NEW, Assigned User IDs: 2
+[2025-08-13 13:30:48] File upload detected. Name: Task Management System Documentation.txt, Size: 10869
+[2025-08-13 13:30:48] File moved successfully to: uploads/forms/admin_form_689c776842eb2_Task Management System Documentation.txt
+[2025-08-13 13:30:48] Task assigned to user ID 2 successfully.
+[2025-08-13 13:30:48] Email logged for user ID: 2
+[2025-08-13 13:30:48] API Request Finished.
+[2025-08-13 13:30:48] API Request Received: GET for resource tasks
+[2025-08-13 13:30:48] Fetched 1 tasks (search: , page: 1)
+[2025-08-13 13:31:01] API Request Received: GET for resource users
+[2025-08-13 13:31:01] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:31:23] API Request Received: GET for resource users
+[2025-08-13 13:31:23] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:31:23] API Request Received: GET for resource users
+[2025-08-13 13:31:23] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:31:23] API Request Received: GET for resource tasks
+[2025-08-13 13:31:23] Fetched 1 tasks (search: , page: 1)
+[2025-08-13 13:31:23] API Request Received: GET for resource users
+[2025-08-13 13:31:23] Fetched 2 users (search: , page: 1)
+[2025-08-13 13:31:29] API Request Received: GET for resource tasks
+[2025-08-13 13:31:29] Fetched 1 tasks (search: , page: 1)
