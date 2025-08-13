@@ -1,11 +1,31 @@
-# Task Management System (PHP & MySQL)
+# 📋 Task Management System (PHP & MySQL)
 
-A simple yet effective task management system built with **PHP**, **MySQL**, and **Bootstrap**.  
-It allows administrators to manage users and tasks, while users can view and update the status of their assigned tasks.
+[![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Database MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Frontend Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
-## Features
+A lightweight yet powerful **task management system** that helps teams and individuals organize tasks, manage deadlines, and track progress — all in one place. Built with **PHP**, **MySQL**, and **Bootstrap**, it is simple to install and easy to customize.
+
+---
+
+## 📖 About This Project
+
+This Task Management System was designed to make project coordination seamless for small teams, organizations, or individuals.  
+It provides:
+- **Admins** with full control over user management and task assignments.
+- **Users** with a clear view of their responsibilities and deadlines.
+
+Key goals:
+- **Simplicity** — quick setup and easy navigation.
+- **Performance** — lightweight, works even on local servers like XAMPP.
+- **Flexibility** — customizable features and UI.
+
+---
+
+## ✨ Features
 
 - **Admin Dashboard**
   - Add, edit, or delete users.
@@ -14,15 +34,15 @@ It allows administrators to manage users and tasks, while users can view and upd
 
 - **User Dashboard**
   - View tasks assigned to you.
-  - Update the status of tasks.
+  - Update task statuses.
   - View deadlines and progress.
 
-- **Authentication**
-  - Secure login for administrators and users.
+- **Secure Authentication**
+  - Separate admin and user logins.
 
 ---
 
-## Screenshots
+## 🖼️ Screenshots
 
 ### 1. Login Page
 ![Login Page](screenshots/login%20page.png)
@@ -38,20 +58,20 @@ It allows administrators to manage users and tasks, while users can view and upd
 
 ---
 
-## Installation
+## 🚀 Installation
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/kimatud/task-manager.git
 cd task-manager
 ```
 
-### 2. Import the Database
+### 2️⃣ Import the Database
 - Open **phpMyAdmin**.
 - Create a database (e.g., `task_manager`).
 - Import the `task_manager.sql` file from the repo.
 
-### 3. Configure Database Connection
+### 3️⃣ Configure Database Connection
 Edit `config.php`:
 ```php
 <?php
@@ -63,14 +83,14 @@ $conn = mysqli_connect($host, $user, $pass, $db);
 ?>
 ```
 
-### 4. Run the Project
+### 4️⃣ Run the Project
 - Place the project in your XAMPP `htdocs` folder.
 - Start Apache and MySQL from XAMPP.
 - Visit `http://localhost/task-manager` in your browser.
 
 ---
 
-## Usage
+## 🔑 Usage
 
 - **Admin Login** → Manage users and tasks.  
 - **User Login** → View and update tasks.  
@@ -83,7 +103,7 @@ Password: password
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 - **PHP** (Core backend logic)
 - **MySQL** (Database)
@@ -92,12 +112,12 @@ Password: password
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Created by [Dennis Kimatu](https://github.com/kimatud) — feel free to fork, improve, and share.
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
